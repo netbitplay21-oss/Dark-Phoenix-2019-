@@ -1,42 +1,42 @@
-﻿1
+1
 00:00:19,310 --> 00:00:23,680
-{\fad(300,1000)\fnArabic Typesetting\fs45\1c&H00D2FF&\3c&HC0C0C0&\blur7}"فوكس للقرن الـ 20"
+{\fad(300,1000)\fnPenataan Huruf Arab\fs45\1c&H00D2FF&\3c&HC0C0C0&\blur7}"Rubah untuk Abad ke-20"
 
 2
 00:00:27,310 --> 00:00:32,950
-{\fad(300,1000)\fnArabic Typesetting\fs45\1c&H0093AE&\3c&HFFFFFF&\blur7\b0}.تي إس جي) للمواد الترفيهية)
+{\fad(300,1000)\fnPenataan Huruf Arab\fs45\1c&H0093AE&\3c&HFFFFFF&\blur7\b0}.TSG) Materi Hiburan
 
 3
 00:00:40,550 --> 00:00:45,450
-{\fad(300,1000)\fnArabic Typesetting\fs45\1c&HFFFFFF&\3c&H0000FF&\blur7}(مــــارفل)
+{\fad(300,1000)\fnPenataan Huruf Arab\fs45\1c&HFFFFFF&\3c&H0000FF&\blur7}(Marvel)
 
 4
 00:00:48,524 --> 00:00:49,853
-من نكون؟
+Siapakah kita?
 
 5
 00:00:50,447 --> 00:00:53,338
-هل نحن كما يريدنا الآخرين؟
+Apakah kita seperti yang orang lain inginkan?
 
 6
 00:00:54,220 --> 00:00:57,627
-هل مصيرنا محتوم ولا يمكننا السيطرة عليه؟
+Apakah nasib kita sudah ditentukan dan di luar kendali kita?
 
 7
 00:00:59,183 --> 00:01:00,916
-أم هل يمكننا أن نتطور؟
+Atau bisakah kita berevolusi?
 
 8
 00:01:01,454 --> 00:01:03,134
-.. ونصبح
+Kita akan menjadi
 
 9
 00:01:03,243 --> 00:01:04,963
-كيان أكبر؟
+Entitas yang lebih besar?
 
 10
 00:01:05,619 --> 00:01:08,658
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ ...ستجد الورقة التي علقتها ♪
+{\fad(300,0)\fnPenataan Huruf Arab\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ ...Anda akan menemukan kertas yang Anda gantung ♪
 
 11
 00:01:06,080 --> 00:01:10,010
@@ -44,15 +44,15 @@
 
 12
 00:01:09,572 --> 00:01:12,088
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ على بابها. ♪
+{\fad(300,0)\fnPenataan Huruf Arab\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Di pintunya. ♪
 
 13
 00:01:12,158 --> 00:01:13,509
-هل يمكنك تغيير المحطة؟
+Bisakah Anda mengganti saluran?
 
 14
 00:01:14,111 --> 00:01:15,372
-.عندما تنتهي الأغنية يا عزيزتي
+Saat lagu itu berakhir, sayangku
 
 15
 00:01:15,397 --> 00:01:16,257
@@ -60,4891 +60,4892 @@
 
 16
 00:01:16,282 --> 00:01:17,525
-.قلتِ هذا قبل أغنيتين
+Kau mengatakan ini dua lagu yang lalu.
 
 17
 00:01:17,558 --> 00:01:19,400
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ حين تقرأ الجزء.. ♪
+{\fad(300,0)\fnPenataan Huruf Arab\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Saat Anda membaca bagian ini.. ♪
 
 18
 00:01:19,564 --> 00:01:21,400
-تعلمين أنها أغنية كلاسيكية، صحيح؟
+Kamu tahu kan ini lagu klasik?
 
 19
 00:01:21,864 --> 00:01:23,755
-حسنًا، سأقدم لكِ وعداً
+Oke, aku akan berjanji padamu.
 
 20
 00:01:23,864 --> 00:01:25,856
-،حين تكونين كبيرة بما يكفي لتقودين بنفسك
+Saat kamu sudah cukup umur untuk mengemudi sendiri
 
 21
 00:01:26,106 --> 00:01:28,302
-يمكنك الإستماع إلى الموسيقى
-.التي تريدينها
+Anda bisa mendengarkan musik
+yang Anda inginkan.
 
 22
 00:01:28,384 --> 00:01:30,454
-حسناً؟
-اتفقنا؟
+Oke?
+Setuju?
 
 23
 00:01:34,603 --> 00:01:35,611
-.(جون)
+.(Juni)
 
 24
 00:01:35,798 --> 00:01:36,845
-.لم يكن أنا
+Bukan aku.
 
 25
 00:01:38,065 --> 00:01:40,143
-.. جين)، أكان هذا .. أقمتِ)
+(Jane), apakah ini... kau tetap tinggal?
 
 26
 00:01:40,176 --> 00:01:41,443
-.لم أفعل شيئاً
+Aku tidak melakukan apa pun.
 
 27
 00:01:43,777 --> 00:01:46,061
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ اتصلي بي ♪
+{\fad(300,0)\fnPenataan Huruf Arab\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Panggil aku ♪
 
 28
 00:01:47,726 --> 00:01:50,226
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ عندما أتت وأبتسمت لي ♪
+{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Saat dia datang dan tersenyum padaku ♪
 
 29
 00:01:50,319 --> 00:01:51,328
-.. جين)، ماذا)
+(Gen), apa?
 
 30
 00:01:51,353 --> 00:01:53,760
-.لا أعرف. لست أنا
+Aku tidak tahu. Bukan aku.
 
 31
 00:01:59,486 --> 00:02:00,682
-.اهدء
+.Harapan
 
 32
 00:02:03,861 --> 00:02:04,924
-.اهدء
+.Harapan
 
 33
 00:02:08,103 --> 00:02:09,307
-!اهدء
+Astaga!
 
 34
 00:03:14,985 --> 00:03:16,946
-.لم تُصب بأي خدوش
+Tidak ada goresan.
 
 35
 00:03:17,391 --> 00:03:18,704
-.لا إصابات داخلية
+Tidak ada cedera internal.
 
 36
 00:03:20,977 --> 00:03:23,141
-أأنتِ متأكدة أنها كانت في السيارة؟
+Apakah kamu yakin dia ada di dalam mobil?
 
 37
 00:03:23,383 --> 00:03:24,422
-.نعم
+.Ya
 
 38
 00:03:25,656 --> 00:03:26,961
-من سيخبرها؟
+Siapa yang akan memberitahunya?
 
 39
 00:03:31,672 --> 00:03:32,805
-.شكراً لك
+.Terima kasih
 
 40
 00:03:37,071 --> 00:03:38,094
-.مرحباً
+.Selamat datang
 
 41
 00:03:38,250 --> 00:03:39,797
-أين والداي؟
+Di mana orang tuaku?
 
 42
 00:03:43,039 --> 00:03:44,850
-...اسمي (تشارلز إكزافيير) و
+Nama saya Charles Xavier dan
 
 43
 00:03:44,875 --> 00:03:45,922
-.لقد ماتا
+Mereka sudah mati.
 
 44
 00:03:46,406 --> 00:03:47,609
-أليس كذلك؟
+Bukankah begitu?
 
 45
 00:03:51,516 --> 00:03:52,805
-.نعم، لقد ماتا
+Ya, mereka meninggal.
 
 46
 00:03:53,579 --> 00:03:56,766
-.ويؤسفني للغاية قول هذا لكِ
+Saya sangat menyesal harus menyampaikan hal ini kepada Anda.
 
 47
 00:04:00,305 --> 00:04:02,313
-إذن، ماذا سيحدث لي الآن؟
+Jadi, apa yang akan terjadi padaku sekarang?
 
 48
 00:04:06,016 --> 00:04:07,985
-.حسنًا، هذا هو سبب وجودي هنا
+Nah, itulah mengapa saya di sini.
 
 49
 00:04:08,524 --> 00:04:10,383
-كما ترين، لديّ مدرسة
+Seperti yang Anda lihat, saya memiliki sekolah.
 
 50
 00:04:10,508 --> 00:04:13,500
-.وهي للصغار أمثالك
+Ini untuk anak muda seperti kamu.
 
 51
 00:04:13,891 --> 00:04:15,016
-.المميزين
+Tokoh-tokoh terhormat
 
 52
 00:04:15,164 --> 00:04:17,147
-...كلمة "مميز" هي مجرد تعبير لطيف بديل لـ
+...kata "spesial" hanyalah cara yang lebih sopan untuk mengungkapkannya.
 
 53
 00:04:17,172 --> 00:04:19,430
-غريب؟ أو مجنون؟
+Aneh? Atau gila?
 
 54
 00:04:20,258 --> 00:04:21,266
-.نعم
+.Ya
 
 55
 00:04:21,930 --> 00:04:23,875
-.نعم، أحياناً تكون كذلك
+Ya, terkadang memang begitu.
 
 56
 00:04:25,750 --> 00:04:28,430
-،لكن في بعض الأحيان
-..يمكن أن تُستخدم لوصف
+Namun terkadang
+...itu bisa digunakan untuk menggambarkan
 
 57
 00:04:28,509 --> 00:04:32,078
-...أشخاص مهمون أو مدهشون أو
+...orang-orang penting atau luar biasa atau
 
 58
 00:04:32,180 --> 00:04:34,711
-.أو رائعون فحسب
+Atau sekadar hebat
 
 59
 00:04:37,459 --> 00:04:39,287
-.(لديكِ هبات يا (جين
+(Kamu punya bakat, Jane)
 
 60
 00:04:42,693 --> 00:04:43,795
-أتعلمين أمراً؟
+Apakah kamu tahu sesuatu?
 
 61
 00:04:46,517 --> 00:04:48,798
-خذي هذا القلم، حسناً؟
+Ambil pulpen ini, oke?
 
 62
 00:04:49,278 --> 00:04:53,293
-.. إنه شيئاً ما
-،حسناً، في الواقع
+Ini sesuatu
+, yah, sebenarnya
 
 63
 00:04:53,619 --> 00:04:55,853
-.خذيه فحسب، هو هدية
+Ambil saja, ini hadiah.
 
 64
 00:05:00,235 --> 00:05:02,413
-الآن، يمكنك اختيار
+Sekarang, Anda dapat memilih
 
 65
 00:05:02,438 --> 00:05:04,289
-.رسم صورة جيدة باستخدامه
+Gambarlah gambar yang bagus menggunakan itu
 
 66
 00:05:04,477 --> 00:05:09,188
-.أو... يمكنك استخدامه لوخز عين أحدهم
+Atau... Anda bisa menggunakannya untuk menusuk mata seseorang.
 
 67
 00:05:09,535 --> 00:05:12,449
-.لكن في كلتا الحالتين، لا يزال مجرد قلم
+Namun dalam kedua kasus tersebut, itu tetap hanya sebuah pena.
 
 68
 00:05:12,777 --> 00:05:15,097
-.مجرد هدية
+Hanya sebuah hadiah
 
 69
 00:05:16,019 --> 00:05:18,113
-،وما ستختاري أن تفعليه بهبتك
+Dan apa yang akan Anda pilih untuk lakukan dengan karunia Anda.
 
 70
 00:05:18,146 --> 00:05:20,702
-.حسنًا، إنه عائد لكِ كلياً
+Nah, itu sepenuhnya terserah Anda.
 
 71
 00:05:22,113 --> 00:05:24,269
-ولكن إذا كنت ترغبين في استخدامها
-،في فعل الأمور الجيدة
+Tetapi jika Anda ingin menggunakannya
+, untuk melakukan hal-hal baik.
 
 72
 00:05:25,402 --> 00:05:26,527
-،حسناً
+,Bagus
 
 73
 00:05:26,879 --> 00:05:28,175
-.يمكنني مساعدتك
+Saya bisa membantu Anda.
 
 74
 00:05:29,402 --> 00:05:31,238
-.أنت لست مثل الأطباء الآخرين
+Anda berbeda dari dokter-dokter lainnya.
 
 75
 00:05:34,230 --> 00:05:35,246
-.لا
+.TIDAK
 
 76
 00:05:36,480 --> 00:05:38,496
-.وأنتِ لستِ مثل المرضى الآخرين
+Anda berbeda dari pasien lainnya.
 
 77
 00:06:05,854 --> 00:06:07,174
-ما رأيك؟
+Bagaimana pendapat Anda?
 
 78
 00:06:09,908 --> 00:06:11,471
-.لا يمكنني البقاء هنا
+Aku tidak bisa tinggal di sini.
 
 79
 00:06:13,315 --> 00:06:15,440
-حسنا. لما لا؟
+Oke. Kenapa tidak?
 
 80
 00:06:15,595 --> 00:06:16,939
-.إنه مكان لطيف حقاً
+Ini tempat yang sangat bagus.
 
 81
 00:06:18,111 --> 00:06:19,158
-...وأنا
+...dan aku
 
 82
 00:06:21,307 --> 00:06:22,619
-.أحطم الأشياء
+Saya merusak barang-barang
 
 83
 00:06:22,893 --> 00:06:24,080
-كيف يبدو هذا؟
+Seperti apa bentuknya?
 
 84
 00:06:24,143 --> 00:06:26,275
-،إذا كسرت شيئاً... أي شيء
+Jika kamu merusak sesuatu... apa pun itu
 
 85
 00:06:26,478 --> 00:06:27,565
-.يمكنني إصلاحه
+Saya bisa memperbaikinya.
 
 86
 00:06:27,744 --> 00:06:29,025
-.لا يمكنك إصلاح كل شيء
+Anda tidak bisa memperbaiki semuanya.
 
 87
 00:06:30,065 --> 00:06:31,338
-.أستطيع مساعدتك
+Saya bisa membantu Anda
 
 88
 00:06:33,197 --> 00:06:35,962
-يمكنني مساعدتك حتى لا تضطري
-.أبدًا إلى كسر الأشياء مجدداً
+Saya bisa membantu Anda agar Anda tidak perlu
+merusak barang lagi.
 
 89
 00:06:36,893 --> 00:06:38,549
-أتعتقد أن بإمكانك إصلاحي أيضاً؟
+Apakah menurutmu kamu juga bisa memperbaikiku?
 
 90
 00:06:38,979 --> 00:06:40,049
-.لا
+.TIDAK
 
 91
 00:06:44,295 --> 00:06:45,749
-.. لا، لأنك
+Tidak, karena
 
 92
 00:06:46,639 --> 00:06:48,819
-.لستِ مكسورة
+Kamu tidak rusak
 
 93
 00:06:53,750 --> 00:06:57,250
-{\fad(300,800)\fnArabic Typesetting\fs45\1c&HC5C5C5&\3c&H555555&\blur7}فوكس للقرن الـ 20 تقدم
+{\fad(300,800)\fnPenataan Huruf Arab\fs45\1c&HC5C5C5&\3c&H555555&\blur7}Fox untuk Abad ke-20 mempersembahkan
 
 94
 00:06:57,250 --> 00:07:00,580
-{\fad(300,350)\fnArabic Typesetting\fs45\1c&HC5C5C5&\3c&H555555&\blur7}بالتعاون مع (مارفل) للمواد الترفيهية
+{\fad(300,350)\fnPenataan Huruf Arab\fs45\1c&HC5C5C5&\3c&H555555&\blur7}Bekerja sama dengan Marvel Entertainment
 
 95
 00:07:00,910 --> 00:07:04,080
-{\fad(300,350)\fnArabic Typesetting\fs45\1c&HC5C5C5&\3c&H555555&\blur7}و(تي إس جي) للمواد الترفيهية
+{\fad(300,350)\fnPenataan Huruf Arab\fs45\1c&HC5C5C5&\3c&H555555&\blur7}dan (TSG) Hiburan
 
 96
 00:07:04,765 --> 00:07:07,640
-...عشرة، تسعة، ثمانية
+...sepuluh, sembilan, delapan
 
 97
 00:07:07,797 --> 00:07:10,617
-...سبعة، ستة، خمسة
+...tujuh, enam, lima
 
 98
 00:07:09,610 --> 00:07:14,580
-{\an8\fad(300,0)\fnArabic Typesetting\fs45\1c&HC5C5C5&\3c&H555555&\blur7}المتحولون
+{\an8\fad(300,0)\fnPenataan Huruf Arab\fs45\1c&HC5C5C5&\3c&H555555&\blur7}Para Transformer
 
 99
 00:07:09,610 --> 00:07:14,580
-{\fad(300,0)\fnArabic Typesetting\fs45\1c&HC5C5C5&\3c&H555555&\blur7}عنقاء الظلام
+{\fad(300,0)\fnPenataan Huruf Arab\fs45\1c&HC5C5C5&\3c&H555555&\blur7}Phoenix Kegelapan
 
 100
 00:07:10,734 --> 00:07:14,484
-.أربعة، ثلاثة، اثنان، واحد
+Empat, tiga, dua, satu
 
 101
 00:07:27,150 --> 00:07:31,050
-{\an4\fad(300,0)\fnArabic Typesetting\fs45\1c&HFFFFFF&}عام 1992م
+{\an4\fad(300,0)\fnPenataan Huruf Arab\fs45\1c&HFFFFFF&}1992 Masehi
 
 102
 00:07:38,227 --> 00:07:41,336
-.تدفق الوقود للمحركات يزداد
-.ثلاث محركات يعملون بـ 104% من كفائتهم
+Aliran bahan bakar ke mesin meningkat
+. Tiga mesin beroperasi pada 104% dari efisiensinya.
 
 103
 00:07:43,225 --> 00:07:45,639
-.مهلاً، أنا ألتقط شيئاً ما هنا
+Hei, aku sedang mengambil sesuatu di sini.
 
 104
 00:07:48,548 --> 00:07:51,290
-سيدتي، لديّ شيئاً ما على القمر
-.الصناعي السادس
+Nyonya, saya punya informasi tentang bulan
+buatan keenam .
 
 105
 00:07:53,876 --> 00:07:55,665
-.هيوستن)، لدينا مشكلة)
+(Houston), kita punya masalah.
 
 106
 00:07:59,337 --> 00:08:01,939
-.يواجه مكوك الفضاء "إنديفور" مشاكل في مهمته
+Pesawat ulang-alik Endeavour menghadapi masalah dalam misinya.
 
 107
 00:08:02,017 --> 00:08:03,032
-.أعلم فيما تفكر
+Aku tahu apa yang kamu pikirkan.
 
 108
 00:08:03,057 --> 00:08:04,087
-.أنا من يقرأ الأفكار هنا
+Akulah yang bisa membaca pikiran di sini.
 
 109
 00:08:04,150 --> 00:08:06,103
-."الجواب "لا
-.لا يمكن أن تصل الطائرة لهذا الإرتفاع
+Jawabannya adalah "Tidak.
+Pesawat itu tidak dapat mencapai ketinggian tersebut. "
 
 110
 00:08:06,134 --> 00:08:08,477
-،حتى مع الصواريخ الداعمة الجديدة
-وتعديلاتك الجديدة؟
+Bahkan dengan rudal pendukung baru
+dan modifikasi baru Anda?
 
 111
 00:08:08,502 --> 00:08:11,174
-لقد بُنيت للتسارع وليس للإرتفاع، حسناً؟
+Itu dibangun untuk berakselerasi, bukan untuk meninggi, oke?
 
 112
 00:08:11,199 --> 00:08:12,603
-.ليس هذا. لا
+Bukan itu. Bukan.
 
 113
 00:08:12,628 --> 00:08:13,899
-<font color="#ff8000">.واجه النظام فشلًا كبيرًا</font>
+Sistem tersebut mengalami kegagalan besar.
 
 114
 00:08:13,962 --> 00:08:15,814
-<font color="#ff8000">.لقد فقدوا السيطرة على ضوابط الدفع</font>
+Mereka telah kehilangan kendali atas sistem kontrol pembayaran.
 
 115
 00:08:15,952 --> 00:08:17,991
-<font color="#ff8000">.إعدادات المسار غير منتظمة</font>
+<font color="#ff8000">.Pengaturan jalur tidak teratur</font>
 
 116
 00:08:18,256 --> 00:08:20,397
-<font color="#ff8000">.من المحتمل بسبب احتراق المحرك الثابت</font>
+<font color="#ff8000">.Mungkin karena kerusakan mesin stasioner</font>
 
 117
 00:08:20,889 --> 00:08:22,881
-<font color="#ff8000">.تولد الأكسجين منخفض</font>
+Produksi oksigen rendah
 
 118
 00:08:23,116 --> 00:08:25,483
-نعم؟
-.نعم، هذا هو
+Ya?
+Ya, itu dia.
 
 119
 00:08:27,536 --> 00:08:28,536
-تشارلز)؟)
+Charles?
 
 120
 00:08:28,561 --> 00:08:29,788
-.سيادة الرئيس
+Bapak Presiden
 
 121
 00:08:29,952 --> 00:08:31,710
-أترى هذا على التلفاز؟
+Apakah Anda melihat ini di televisi?
 
 122
 00:08:32,092 --> 00:08:33,490
-.نعم، أنا اشاهده الآن
+Ya, saya sedang menontonnya sekarang.
 
 123
 00:08:33,577 --> 00:08:34,647
-.(هانك)
+(Gulungan)
 
 124
 00:08:38,869 --> 00:08:39,869
-.نعم
+.Ya
 
 125
 00:08:45,400 --> 00:08:46,971
-.إنها عملية استخراج بسيطة
+Ini adalah proses ekstraksi yang sederhana.
 
 126
 00:08:47,057 --> 00:08:48,197
-.سنذهب للفضاء
+Kita akan pergi ke luar angkasa.
 
 127
 00:08:48,252 --> 00:08:50,141
-ونصل إلى رواد الفضاء
-.ونُعيدهم للديار
+Kami menjangkau para astronot
+dan membawa mereka pulang.
 
 128
 00:08:50,166 --> 00:08:51,166
-أي أسئلة؟
+Ada pertanyaan?
 
 129
 00:08:51,191 --> 00:08:52,778
-.نعم. الآلاف من الأسئلة
+Ya. Ribuan pertanyaan.
 
 130
 00:08:52,819 --> 00:08:54,145
-.ليس لدينا وقت لآلاف الأسئلة
+Kita tidak punya waktu untuk menjawab ribuan pertanyaan.
 
 131
 00:08:54,170 --> 00:08:55,482
-إذن، سنذهب للفضاء؟
+Jadi, kita akan pergi ke luar angkasa?
 
 132
 00:08:55,544 --> 00:08:57,472
-.نعم يا (كيرت)، سنذهب للفضاء
+Ya, Kurt, kita akan pergi ke luar angkasa.
 
 133
 00:08:57,497 --> 00:08:58,755
-.نحن نقوم بمهمات في الفضاء الآن
+Saat ini kami sedang melakukan misi di luar angkasa.
 
 134
 00:08:59,154 --> 00:09:00,193
-.هذا رائع
+Ini luar biasa
 
 135
 00:09:00,218 --> 00:09:01,717
-هل يمكن لطائرة "إكس" الوصول لهذا الإرتفاع؟
+Bisakah pesawat "X" mencapai ketinggian ini?
 
 136
 00:09:02,123 --> 00:09:03,215
-،حسناً، من الناحية الفنية
+Nah, secara teknis
 
 137
 00:09:03,240 --> 00:09:05,209
-.ستصل بنا إلى هناك
-!لنذهب
+Ini akan membawa kita ke sana
+! Ayo!
 
 138
 00:09:10,133 --> 00:09:11,696
-أهناك مشكلة؟
+Apakah ada masalah?
 
 139
 00:09:11,891 --> 00:09:13,883
-.أنسى أحياناً أن بإمكانك قراءة العقول
+Terkadang aku lupa bahwa kamu bisa membaca pikiran.
 
 140
 00:09:14,243 --> 00:09:15,546
-.لم أكن بحاجة لقراءة عقلك
+Aku tidak perlu membaca pikiranmu.
 
 141
 00:09:15,571 --> 00:09:17,360
-.الأمر ظاهر تماماً على وجهك
+Itu terlihat jelas di wajahmu.
 
 142
 00:09:18,087 --> 00:09:21,383
-..أخبريني أنه لا توجد مشكلة
-.إذن لا توجد مشكلة
+Katakan padaku tidak ada masalah
+. Jadi tidak ada masalah.
 
 143
 00:09:21,633 --> 00:09:23,422
-،إذا حدث خطأ ما
+Jika terjadi sesuatu yang salah
 
 144
 00:09:23,501 --> 00:09:25,266
-.سأقوم بإعادتنا دون تردد
+Aku akan membawa kita kembali tanpa ragu-ragu.
 
 145
 00:09:26,202 --> 00:09:27,507
-.أعلم أنكِ ستفعلين
+Aku tahu kau akan melakukannya.
 
 146
 00:09:53,196 --> 00:09:55,595
-.تم رصد سفينة أخرى في السماء
+Kapal lain terlihat di langit.
 
 147
 00:09:57,540 --> 00:10:01,720
-لقد تم إخبارنا أن الرئيس
-(طلب مساعدة (المحتولين
+Kami telah diberitahu bahwa presiden
+(meminta bantuan dari para penipu)
 
 148
 00:10:29,031 --> 00:10:31,786
-،"سيداتي وسادتي الموجودين في "ناسا
-.(هذا صوت (تشارلز اكزافيير
+"Hadirin sekalian di NASA
+... (Itu suara Charles Xavier)"
 
 149
 00:10:31,849 --> 00:10:34,216
-هل يمكن لأحدكم أن يطلعني على الموقف؟
+Bisakah seseorang menjelaskan apa yang sedang terjadi?
 
 150
 00:10:34,364 --> 00:10:36,255
-.لقد كنا نلتقط توهجات شمسية
+Kami sedang merekam suar matahari.
 
 151
 00:10:36,365 --> 00:10:38,826
-.نعتقد أن الحرارة أثرت على الكهرباء
+Kami yakin panas tersebut memengaruhi aliran listrik.
 
 152
 00:10:38,911 --> 00:10:42,662
-،لقد فقدوا السيطرة، والاتصالات
-.والتوجيه، وكل شيء تقريباً
+Mereka telah kehilangan kendali, komunikasi
+, arah, dan hampir segalanya.
 
 153
 00:10:42,927 --> 00:10:45,466
-.لا داعي للقلق يا مركز التحكم
-.المساعدة في الطريق إليهم
+Jangan khawatir, Pusat Kontrol
+. Bantuan sedang dalam perjalanan.
 
 154
 00:10:57,347 --> 00:11:00,558
-أعتقد أن هذا ليس ممتعًا بقدر
-.ما اعتقدت أنه سيكون
+Kurasa ini tidak semenyenangkan yang
+kubayangkan.
 
 155
 00:11:28,960 --> 00:11:31,490
-أهذا... توهج شمسي؟
+Apakah ini... suar matahari?
 
 156
 00:11:31,523 --> 00:11:33,633
-.لا، لم أرى شيء مشابه لهذا من قبل
+Tidak, saya belum pernah melihat hal seperti ini sebelumnya.
 
 157
 00:11:53,786 --> 00:11:56,481
-.صواريخ الدفع تُخفق وتتعطل
+Roket pendorong mengalami kegagalan dan kerusakan.
 
 158
 00:11:56,750 --> 00:11:58,241
-.هذه المقصورة لن تصمد لفترة طويلة
+Kabin ini tidak akan bertahan lama.
 
 159
 00:11:58,266 --> 00:11:59,734
-كيرت)، هل يمكنك الوصول إلى هناك؟)
+Kurt, bisakah kamu sampai ke sana?
 
 160
 00:11:59,786 --> 00:12:02,411
-.انها تدور بسرعة كبيرة
-.لا يمكنني الرؤية داخل النافذة
+Putarannya terlalu cepat
+. Aku tidak bisa melihat ke dalam jendela.
 
 161
 00:12:02,582 --> 00:12:05,887
-.سكوت)، أريدك أن تُفجر هذا الدافع)
-.لتبطئ الدوران
+(Scott), aku ingin kau meledakkan impuls ini. Untuk memperlambat
+putarannya.
 
 162
 00:12:25,801 --> 00:12:27,597
-.كيرت)، خذ (بيتر) واذهبا)
+Kurt, bawa Peter dan pergilah.
 
 163
 00:12:33,569 --> 00:12:35,359
-.ستورم)، أغلقي تلك التصدعات)
+Badai), tutup celah-celah itu.
 
 164
 00:12:42,390 --> 00:12:43,507
-.سأعود بعد قليل
+Aku akan kembali sebentar lagi.
 
 165
 00:12:50,424 --> 00:12:51,822
-.سحقاً
+Brengsek
 
 166
 00:13:04,546 --> 00:13:05,990
-.أربطوا أحزمكتم، سنعود للديار
+Kencangkan sabuk pengaman Anda, kita akan pulang.
 
 167
 00:13:06,015 --> 00:13:08,944
-.مهلاً، قائدنا ليس هنا
+Tunggu, pemimpin kita tidak ada di sini.
 
 168
 00:13:09,194 --> 00:13:11,421
-لقد في غرفة الضغط
-.يحاول إصلاح صاروخ الدفع
+Dia berada di ruang bertekanan
+. Dia sedang mencoba memperbaiki roket pendorong.
 
 169
 00:13:15,655 --> 00:13:17,671
-.البصمة الحرارية تزداد بسرعة
+Jejak panasnya meningkat dengan cepat.
 
 170
 00:13:17,696 --> 00:13:19,413
-.لا يمكنني الإستمرار أكثر من هذا
+Aku tidak bisa terus seperti ini.
 
 171
 00:13:19,593 --> 00:13:21,030
-.يجب أن نرحل من هنا
+Kita harus pergi dari sini.
 
 172
 00:13:21,108 --> 00:13:22,233
-!قلت اربطوا أحزمتكم
+Saya bilang, kencangkan sabuk pengaman Anda!
 
 173
 00:13:22,304 --> 00:13:24,983
-.لا. (رايفين)، لا
-.لن نترك أحداً خلفنا
+Tidak. Raven, tidak
+. Kita tidak akan meninggalkan siapa pun.
 
 174
 00:13:25,083 --> 00:13:27,356
-.لن أعرض هذا الفريق للخطر أكثر من هذا
+Saya tidak akan membahayakan tim ini lebih dari ini.
 
 175
 00:13:27,481 --> 00:13:28,747
-ماذا عن فريقهم؟
+Bagaimana dengan tim mereka?
 
 176
 00:13:29,083 --> 00:13:30,684
-.جين) بإمكانها إبقاء السفينة متماسكة)
+Jane bisa menjaga agar kapal tetap berlayar.
 
 177
 00:13:30,754 --> 00:13:32,012
-أليس كذلك يا (جين)؟
+Bukankah begitu, Jane?
 
 178
 00:13:32,817 --> 00:13:35,802
-تعلمين أن بإمكانك فعل أي
-.شيء تريدينه في عقلك
+Kamu tahu bahwa kamu bisa melakukan apa pun
+yang kamu inginkan dalam pikiranmu.
 
 179
 00:13:36,466 --> 00:13:38,699
-بإمكاني إبقاء السفينة متماسكة
-.لكن ليس من هنا
+Saya bisa menjaga kapal tetap terapung
+. Tapi bukan dari sini.
 
 180
 00:13:38,724 --> 00:13:40,075
-.يجب أن أكون بداخلها
+Seharusnya aku berada di dalamnya.
 
 181
 00:13:40,100 --> 00:13:41,231
-.الحرارة ترتفع
+Suhu semakin meningkat.
 
 182
 00:13:41,271 --> 00:13:43,153
-لدينا أقل من دقيقة
-.حتى تصدمنا تلك التوهجات
+Kita hanya punya waktu kurang dari satu menit
+sebelum kilatan cahaya itu mengenai kita.
 
 183
 00:13:43,178 --> 00:13:44,544
-.قالت أن بإمكانها فعلها
+Dia mengatakan dia bisa melakukannya
 
 184
 00:13:46,021 --> 00:13:47,231
-.لديكم 30 ثانية
+Anda punya waktu 30 detik
 
 185
 00:13:51,341 --> 00:13:52,880
-.قم بعدهم تنازلياً. انطلقوا
+Hitunglah dalam urutan menurun. Mulai!
 
 186
 00:14:13,383 --> 00:14:14,477
-.تبقى 20 ثانية
+20 detik tersisa
 
 187
 00:14:24,107 --> 00:14:25,123
-...عشرة
+...sepuluh
 
 188
 00:14:25,303 --> 00:14:27,326
-،تسعة، ثمانية
+Sembilan, delapan
 
 189
 00:14:27,443 --> 00:14:29,553
-،سبعة، ستة
+Tujuh, enam
 
 190
 00:14:30,170 --> 00:14:31,170
-،خمسة
+,lima
 
 191
 00:14:31,287 --> 00:14:32,287
-،أربعة
+empat
 
 192
 00:14:32,537 --> 00:14:33,576
-،ثلاثة
+,tiga
 
 193
 00:14:33,747 --> 00:14:34,747
-،اثنان
+,dua
 
 194
 00:14:34,888 --> 00:14:35,888
-.واحد
+.satu
 
 195
 00:14:43,230 --> 00:14:45,261
-أين (جين)؟
-كيرت)، أين هي؟)
+Di mana Jane?
+(Kurt, di mana dia?)
 
 196
 00:14:45,323 --> 00:14:46,542
-!أين هي؟
+Dimana dia?
 
 197
 00:14:47,480 --> 00:14:48,480
-!أنا أسف
+!Saya minta maaf
 
 198
 00:14:52,456 --> 00:14:53,714
-!استعدوا للإصطدام
+Bersiaplah untuk tabrakan!
 
 199
 00:16:38,508 --> 00:16:39,961
-...هل الجميع
+...adalah semua orang
 
 200
 00:16:40,789 --> 00:16:42,688
-هل الجميع بخير؟
+Apakah semuanya baik-baik saja?
 
 201
 00:16:42,859 --> 00:16:44,359
-.نعم، نحن بخير
+Ya, kami baik-baik saja.
 
 202
 00:16:49,227 --> 00:16:50,656
-.لنعد للديار إذن
+Kalau begitu, mari kita pulang.
 
 203
 00:17:02,528 --> 00:17:03,920
-!نعم
+!Ya
 
 204
 00:17:04,298 --> 00:17:07,033
-!المحتولون! المحتولون
-!المحتولون! المحتولون
+Para penipu! Para penipu! Para penipu
+! Para penipu!
 
 205
 00:17:09,389 --> 00:17:11,124
-!نعم! المحتولون
+Ya! Para penipu
 
 206
 00:17:33,695 --> 00:17:35,610
-.هذا يكفي يا فتيان ويافتيات
-.اسمعوني
+Cukup sudah, anak-anak
+. Dengarkan aku.
 
 207
 00:17:37,407 --> 00:17:40,993
-قام المتحولون اليوم بعمل
-.شجاع لا يُصدق
+Para Transformers melakukan
+tindakan yang sangat berani hari ini.
 
 208
 00:17:41,018 --> 00:17:43,738
-لقد اثبتوا للبشرية مجدداً
-.لماذا يحتاجون إلينا
+Mereka telah membuktikan kepada umat manusia sekali lagi mengapa
+mereka membutuhkan kita.
 
 209
 00:17:43,763 --> 00:17:45,574
-.أناس أمثالكم
+Orang-orang seperti Anda
 
 210
 00:17:46,166 --> 00:17:47,884
-الرئيس يُرسل تحياته إليكم
+Presiden menyampaikan salamnya kepada Anda.
 
 211
 00:17:47,910 --> 00:17:49,636
-.وكذلك امتنانه القلبي
+Dan juga rasa terima kasihnya yang tulus.
 
 212
 00:17:49,874 --> 00:17:51,663
-،وبالنسبة لي
+Dan mengenai saya
 
 213
 00:17:51,688 --> 00:17:53,882
-.فأنا فخور بكم للغاية
+Aku sangat bangga padamu.
 
 214
 00:17:54,984 --> 00:17:56,264
-.استمتعوا بوقتكم
+Selamat menikmati waktu Anda
 
 215
 00:17:56,289 --> 00:17:57,820
-.أنتم تستحقون ذلك
+Kamu pantas mendapatkannya.
 
 216
 00:17:57,845 --> 00:17:59,148
-.في الواقع، جميعكم يستحق ذلك
+Sebenarnya, kalian semua pantas mendapatkannya.
 
 217
 00:17:59,202 --> 00:18:00,819
-.لا مزيد من صفوف، اليوم الدراسي انتهى
+Tidak ada lagi pelajaran, hari sekolah telah berakhir.
 
 218
 00:18:03,804 --> 00:18:04,835
-.(جين)
+(Jane)
 
 219
 00:18:06,288 --> 00:18:08,093
-.لقد أخفتينا هناك حقاً
+Kamu benar-benar membuat kami takut tadi.
 
 220
 00:18:08,140 --> 00:18:09,164
-كيف تشعرين؟
+Bagaimana perasaanmu?
 
 221
 00:18:10,164 --> 00:18:11,617
-...في الواقع، أنا
+...Sebenarnya, saya
 
 222
 00:18:11,819 --> 00:18:13,164
-.أشعر أني بخير
+Saya merasa baik-baik saja
 
 223
 00:18:13,189 --> 00:18:14,236
-هانك)؟)
+Gulungan?
 
 224
 00:18:14,274 --> 00:18:16,069
-نعم؟ -
-هلّا فحصت (جين)؟ -
+Ya? -
+Apakah Anda keberatan jika gen Anda diuji? -
 
 225
 00:18:16,094 --> 00:18:17,374
-وفحص طبي قياسي
+Pemeriksaan medis standar
 
 226
 00:18:17,399 --> 00:18:19,007
-.لأي شخص أُصيب في الميدان
+Bagi siapa pun yang terluka di lapangan
 
 227
 00:18:22,085 --> 00:18:24,945
-أتعلم، كان الرئيس على وشك
-.أن يُرسل تعازيه
+Anda tahu, presiden hendak
+menyampaikan belasungkawa.
 
 228
 00:18:25,452 --> 00:18:26,749
-.يجب أن تكون ميتة
+Pasti sudah mati.
 
 229
 00:18:26,874 --> 00:18:28,163
-.لحسن الحظ، أنها ليست كذلك
+Untungnya, bukan itu masalahnya.
 
 230
 00:18:31,686 --> 00:18:32,999
-.لقد قمت بكل شيء
+Aku melakukan semuanya.
 
 231
 00:18:33,024 --> 00:18:35,381
-.أعني، (جين) قامت بالقليل في النهاية
+Maksudku, pada akhirnya Jane tidak melakukan banyak hal.
 
 232
 00:18:35,529 --> 00:18:37,178
-ولكني من قمت بمعظم الأمور
+Tapi sebagian besar pekerjaan itu saya yang kerjakan.
 
 233
 00:18:41,467 --> 00:18:43,122
-.(لقد عرضتنا للخطر يا (تشارلز
+(Kau telah membahayakan kita, Charles)
 
 234
 00:18:43,147 --> 00:18:45,413
-.عرضت هؤلاء الأطفال للخطر
+Anak-anak ini berada dalam risiko.
 
 235
 00:18:47,205 --> 00:18:50,181
-.(لم يعدوا أطفال يا (رايفين
+Mereka bukan anak-anak lagi, Raven.
 
 236
 00:18:51,400 --> 00:18:53,369
-وأنا أهتم لسلامتهم
+Dan saya peduli dengan keselamatan mereka.
 
 237
 00:18:53,394 --> 00:18:54,978
-.تماماً كما تهتمين لها
+Sama seperti kamu peduli padanya
 
 238
 00:18:55,173 --> 00:18:56,533
-هل أنت واثق من هذا؟
+Apakah kamu yakin tentang ini?
 
 239
 00:18:56,947 --> 00:18:59,805
-.لأننا نتحمل مخاطر أكبر وأكبر
+Karena kita mengambil risiko yang semakin besar.
 
 240
 00:18:59,830 --> 00:19:01,040
-ولماذا؟
+Dan mengapa?
 
 241
 00:19:01,126 --> 00:19:02,376
-،رجاءً
+,Tolong
 
 242
 00:19:02,431 --> 00:19:04,228
-.أخبرني أنه ليس لأجل غرورك
+Dia bilang padaku itu bukan untuk egomu.
 
 243
 00:19:04,353 --> 00:19:05,798
-،أن تكون على غلاف المجلات
+Tampil di sampul majalah
 
 244
 00:19:05,823 --> 00:19:07,697
-.أن تحصل على ميدالية من الرئيس
+Menerima medali dari Presiden
 
 245
 00:19:08,064 --> 00:19:09,533
-أنت تحب هذا، صحيح؟
+Kamu suka ini, kan?
 
 246
 00:19:09,689 --> 00:19:11,320
-.بدلا من أن يتم مطاردتنا واحتقارنا
+Alih-alih dianiaya dan dihina
 
 247
 00:19:11,345 --> 00:19:13,189
-.حسناً، في الواقع، أحب هذا
+Sebenarnya, saya menyukai ini.
 
 248
 00:19:13,251 --> 00:19:15,109
-.(ما هذا إلا وسيلة لتحقيق غاية يا (رايفين
+Ini hanyalah sarana untuk mencapai tujuan, Raven.
 
 249
 00:19:15,134 --> 00:19:16,359
-وما هي تلك الغاية؟
+Apa tujuan itu?
 
 250
 00:19:16,384 --> 00:19:17,439
-.الحفاظ على سلامتنا
+Menjaga kita tetap aman
 
 251
 00:19:17,767 --> 00:19:19,251
-يجب أن تفهمي أفضل من أي شخص آخر
+Anda seharusnya lebih memahami hal ini daripada siapa pun.
 
 252
 00:19:19,276 --> 00:19:21,158
-...أننا على بُعد يوم واحد
+...bahwa kita tinggal satu hari lagi
 
 253
 00:19:21,183 --> 00:19:23,462
-.من أن يرونا كأننا أعدائهم مجدداً
+Mereka tidak ingin kita dianggap sebagai musuh mereka lagi.
 
 254
 00:19:23,564 --> 00:19:25,391
-،إذن ماذا
-نرتدي أزياء مطابقة
+Jadi,
+kita pakai baju apa? Baju seragam?
 
 255
 00:19:25,416 --> 00:19:26,604
-ونبتسم في الصور
+Kami tersenyum di foto-foto itu
 
 256
 00:19:26,629 --> 00:19:28,089
-لجعل الجميع يشعرون بالأمان؟ -
-هذه ضريبة صغيرة علينا أن ندفعها -
+Demi membuat semua orang merasa aman? -
+Itu adalah harga kecil yang harus kita bayar.
 
 257
 00:19:28,114 --> 00:19:29,130
-.لحفظ السلام
+Untuk menjaga perdamaian
 
 258
 00:19:29,155 --> 00:19:31,120
-عن طريق المخاطرة بقومنا لإنقاذهم؟
+Dengan mempertaruhkan nyawa kita untuk menyelamatkan mereka?
 
 259
 00:19:31,145 --> 00:19:32,497
-!نعم
-!نعم
+Ya!
+Ya!
 
 260
 00:19:36,943 --> 00:19:38,193
-...هذا مضحك
+...itu lucu
 
 261
 00:19:38,255 --> 00:19:40,364
-لا أستطيع أن أتذكر آخر مرة
+Aku tidak ingat kapan terakhir kali
 
 262
 00:19:40,396 --> 00:19:42,435
-.كنت أنت من يخاطر فيها بشيء ما
+Kaulah yang mengambil risiko dalam hal itu.
 
 263
 00:19:42,460 --> 00:19:43,535
-،وبالمناسبة
+Omong-omong,
 
 264
 00:19:43,560 --> 00:19:46,075
-.دائما ما تنقذ النساء الرجال هنا
+Di sini, para wanita selalu menyelamatkan para pria.
 
 265
 00:19:46,100 --> 00:19:48,419
-."قد ترغب في التفكير في تغيير الاسم إلى "المتحولات
+Anda mungkin ingin mempertimbangkan untuk mengubah namanya menjadi "Variabel".
 
 266
 00:19:50,801 --> 00:19:52,958
-،ضربات القلب قوية
-.النبض جيد
+Detak jantungnya kuat
+. Denyut nadinya bagus.
 
 267
 00:19:53,247 --> 00:19:54,943
-.نشاط الدماغ طبيعي
+Aktivitas otak normal.
 
 268
 00:19:56,544 --> 00:19:59,599
-.القراءة الوراثية، سألقي نظرة أخرى عليها
+Soal pembacaan genetik, saya akan memeriksanya lagi.
 
 269
 00:20:02,443 --> 00:20:03,896
-ماذا يمكن أن يكون خاطئاً؟
+Apa yang mungkin salah?
 
 270
 00:20:05,630 --> 00:20:07,301
-هل قرأتِ عقلي للتو بدون إذني؟
+Apakah kamu baru saja membaca pikiranku tanpa izinku?
 
 271
 00:20:07,326 --> 00:20:09,239
-...آسفة، لم أقصد ذلك، لكن
+Maaf, aku tidak bermaksud begitu, tapi...
 
 272
 00:20:10,005 --> 00:20:11,786
-ماذا يمكن أن يكون خاطئاً؟
+Apa yang mungkin salah?
 
 273
 00:20:13,388 --> 00:20:15,059
-أياً كان ما حدث بالأعلى
+Apa pun yang terjadi di atas
 
 274
 00:20:15,084 --> 00:20:16,716
-.جعلكِ أقوى
+Itu membuatmu lebih kuat.
 
 275
 00:20:17,880 --> 00:20:20,379
-..أتعلمين، لم أرى مؤشر قوة كهذا، أنتِ
+Kau tahu, aku belum pernah melihat indikator sekuat ini, kau
 
 276
 00:20:20,404 --> 00:20:21,825
-...أنتِ حرفياً
+...kamu sungguh-sungguh
 
 277
 00:20:21,872 --> 00:20:23,224
-.تجاوزتِ كل الحدود
+Kau telah melanggar semua batasan.
 
 278
 00:20:23,271 --> 00:20:24,888
-إذن، ماذا يعني هذا؟
+Jadi, apa artinya ini?
 
 279
 00:20:25,263 --> 00:20:26,701
-،يعني
+Artinya
 
 280
 00:20:28,115 --> 00:20:30,396
-.أن عليّ أن أبني آلة أفضل
+Saya perlu membangun mesin yang lebih baik.
 
 281
 00:20:31,021 --> 00:20:32,216
-...لكن
+...Tetapi
 
 282
 00:20:33,115 --> 00:20:34,545
-كيف تشعرين؟
+Bagaimana perasaanmu?
 
 283
 00:20:35,326 --> 00:20:37,732
-.أشعر أني بخير
+Saya merasa baik-baik saja
 
 284
 00:20:37,909 --> 00:20:38,995
-.جيد
+.Bagus
 
 285
 00:20:39,112 --> 00:20:41,518
-،حسناً، ما يمكنني قوله
+Yah, apa yang bisa saya katakan?
 
 286
 00:20:41,581 --> 00:20:42,831
-.بإمكانك الذهاب
+Kamu bisa pergi
 
 287
 00:20:42,856 --> 00:20:44,612
-.يمكنك الذهاب للأعلى -
-.حسناً -
+Kamu bisa naik ke atas. -
+Oke.
 
 288
 00:20:47,198 --> 00:20:48,627
-.(شكراً لك يا (هانك
+Terima kasih, Hank.
 
 289
 00:20:54,043 --> 00:20:55,238
-أقال (هانك) هذا؟
+Apakah Hank yang menembakkan ini?
 
 290
 00:20:55,301 --> 00:20:56,637
-تجاوزتِ كل الحدود"؟"
+"Kau telah melanggar semua batasan?"
 
 291
 00:20:56,662 --> 00:20:58,417
-.لقد فعل -
-الرجل الضخم الأزرق ذو الفرو؟ -
+Dialah pelakunya—
+pria besar, biru, dan berbulu itu?
 
 292
 00:20:58,442 --> 00:20:59,510
-الطبيب؟ (هانك)؟
+Dokternya? (Hank)?
 
 293
 00:20:59,535 --> 00:21:01,348
-إنه هو. لماذا؟
+Itu dia. Kenapa?
 
 294
 00:21:03,189 --> 00:21:05,400
-هل تشعر بالخوف يا عزيزي؟
+Apakah kamu takut, sayangku?
 
 295
 00:21:05,768 --> 00:21:07,073
-.دائماً
+.selalu
 
 296
 00:21:13,166 --> 00:21:15,096
-هل أنتِ متأكدة أنكِ بخير؟
+Apakah kamu yakin kamu baik-baik saja?
 
 297
 00:21:15,783 --> 00:21:17,291
-.أنا بأفضل حال
+Saya baik-baik saja.
 
 298
 00:21:17,316 --> 00:21:19,651
-.أشعر أني بأفضل حال حقاً
+Aku merasa sangat baik
 
 299
 00:21:20,135 --> 00:21:24,135
-.. لا أدري، اشعر أن كل شيء
+Aku tidak tahu, aku merasa seperti segalanya
 
 300
 00:21:24,160 --> 00:21:25,877
-.على أفضل حال
+Dalam kondisi sebaik mungkin
 
 301
 00:21:26,971 --> 00:21:28,135
-.نعم
+.Ya
 
 302
 00:21:28,713 --> 00:21:30,190
-...لا، الأمر فقط
+...Tidak, hanya saja
 
 303
 00:21:30,330 --> 00:21:31,549
-ماذا؟
+Apa?
 
 304
 00:21:34,838 --> 00:21:36,549
-.اعتقدت أني فقدتك اليوم
+Kupikir aku telah kehilanganmu hari ini
 
 305
 00:21:37,017 --> 00:21:38,236
-.أعلم
+.Tahu
 
 306
 00:21:40,245 --> 00:21:42,229
-.لكنني عدت إليك
+Tapi aku kembali padamu.
 
 307
 00:21:43,135 --> 00:21:44,721
-.سأعود إليك دائمًا
+Aku akan selalu kembali padamu
 
 308
 00:22:06,992 --> 00:22:09,735
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ أعلم أن الزهوز تجتاز المطر ♪
+{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Aku tahu bahwa bunga-bunga bertahan hidup di tengah hujan ♪
 
 309
 00:22:10,094 --> 00:22:12,727
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ ولكن كيف يمكن للحب تجاوز الألم؟ ♪
+{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Tapi bagaimana cinta bisa mengatasi rasa sakit? ♪
 
 310
 00:22:17,855 --> 00:22:19,417
-أهذه (لونا)؟
+Apakah ini Luna?
 
 311
 00:22:20,464 --> 00:22:21,863
-.ربما السناجب تزعجها
+Mungkin tupai-tupai itu mengganggunya.
 
 312
 00:22:21,888 --> 00:22:23,825
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ أليس هذا غريبًا يا حبيبتي؟ ♪
+{\fad(300,0)\fnPenataan Huruf Arab\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Bukankah ini aneh, sayangku? ♪
 
 313
 00:22:27,488 --> 00:22:29,025
-.سأذهب لتفقدها
-.لن أتأخر
+Aku akan menjenguknya
+. Aku tidak akan lama.
 
 314
 00:22:29,050 --> 00:22:30,206
-.فلتبقي فحسب
+Tetaplah di sini.
 
 315
 00:22:33,019 --> 00:22:34,111
-.قلي لها أن تصمت
+Suruh dia diam.
 
 316
 00:22:34,136 --> 00:22:35,300
-!(لونا)
+Luna!
 
 317
 00:22:39,191 --> 00:22:40,402
-!(لونا)
+Luna!
 
 318
 00:22:56,844 --> 00:22:57,766
-!(لونا)
+Luna!
 
 319
 00:22:58,211 --> 00:22:59,984
-!اصمتي يا عزيزتي
+Diamlah, sayangku!
 
 320
 00:23:00,594 --> 00:23:02,125
-صه
+Ya
 
 321
 00:23:02,352 --> 00:23:04,696
-ما الأمر يا عزيزتي؟
+Ada apa, sayangku?
 
 322
 00:23:39,123 --> 00:23:40,327
-.يا إلهي
+.Astaga
 
 323
 00:23:46,850 --> 00:23:47,850
-مارجريت)؟)
+Margaret?
 
 324
 00:24:08,320 --> 00:24:11,117
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ أضئ كل الأنوار في قلبي ♪
+{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Nyalakan semua cahaya di hatiku ♪
 
 325
 00:24:11,602 --> 00:24:14,109
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ إجعله يزداد إشراقاً ♪
+{\fad(300,0)\fnPenataan Huruf Arab\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Buatlah bersinar lebih terang ♪
 
 326
 00:24:15,011 --> 00:24:18,398
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ حبك لي مشتعلاً ♪
+{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Cintamu padaku membara ♪
 
 327
 00:24:19,352 --> 00:24:21,859
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ أطفئ كل الأنوار ♪
+{\fad(300,0)\fnTata Huruf Arab\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Matikan semua lampu ♪
 
 328
 00:24:21,984 --> 00:24:25,117
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ خذني للأعلى ♪
+{\fad(300,0)\fnPenataan Huruf Arab\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Bawa aku naik ♪
 
 329
 00:24:25,164 --> 00:24:26,632
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ ضع يديك ♪
+{\fad(300,0)\fnPenataan Huruf Arab\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Letakkan tanganmu ♪
 
 330
 00:24:26,657 --> 00:24:28,545
-{\fad(300,0)\fnArabic Typesetting\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ ضع يديك عليّ ♪
+{\fad(300,0)\fnPenataan Huruf Arab\fs30\1c&HFFFFFF&\3c&HFF00FF&\blur7}♪ Letakkan tanganmu padaku ♪
 
 331
 00:24:33,061 --> 00:24:34,224
-كأس آخر؟
+Satu cangkir lagi?
 
 332
 00:24:34,249 --> 00:24:35,850
-.بعد أن أنتهي من هذا
+Setelah saya menyelesaikan ini
 
 333
 00:24:39,897 --> 00:24:41,014
-اثنين آخرين؟
+Dua lagi?
 
 334
 00:24:42,835 --> 00:24:43,928
-.نعم
+.Ya
 
 335
 00:24:48,926 --> 00:24:50,527
-مرحباً؟ -
-.بعض الثلج -
+Halo? -
+Ada salju -
 
 336
 00:24:53,004 --> 00:24:54,027
-.شكراً لك
+.Terima kasih
 
 337
 00:24:55,012 --> 00:24:56,230
-كيف حالها؟
+Bagaimana kabarnya?
 
 338
 00:24:56,504 --> 00:24:57,691
-...إنها
+...bahwa itu
 
 339
 00:24:59,027 --> 00:25:00,041
-.عطشة
+Haus
 
 340
 00:25:00,066 --> 00:25:01,379
-.نعم، أرى ذلك
+Ya, saya mengerti.
 
 341
 00:25:02,090 --> 00:25:03,448
-أتبدو أنها بخير لك؟
+Apakah dia tampak baik-baik saja menurutmu?
 
 342
 00:25:03,473 --> 00:25:05,707
-بالنسبة لشخص ضربته
-توهجات شمسية
+Bagi seseorang yang pernah terkena dampak
+suar matahari
 
 343
 00:25:06,472 --> 00:25:08,253
-.أعتقد أنها بخير حقاً
+Menurutku dia baik-baik saja.
 
 344
 00:25:08,278 --> 00:25:09,590
-.شكراً لك
+.Terima kasih
 
 345
 00:25:14,394 --> 00:25:15,542
-أتعلمين، منذ زمن قريب
+Tahukah kamu, belum lama ini
 
 346
 00:25:15,567 --> 00:25:17,262
-.كنّا نُقيم حفلات كهذه
+Dulu kami sering mengadakan pesta seperti ini.
 
 347
 00:25:17,949 --> 00:25:19,832
-.الآن نحن المتبقين
+Sekarang kitalah yang tersisa.
 
 348
 00:25:20,652 --> 00:25:23,262
-.نعم. آخر من تبقى من الصف الأول
+Ya. Yang terakhir dari barisan pertama.
 
 349
 00:25:24,145 --> 00:25:25,637
-.لقد كنت أفكر
+Saya sedang berpikir
 
 350
 00:25:26,136 --> 00:25:28,996
-..ربما حان الوقت لنا لـ
+Mungkin sudah saatnya bagi kita untuk
 
 351
 00:25:29,470 --> 00:25:30,837
-.نمضي قدماً
+Kita terus maju.
 
 352
 00:25:31,048 --> 00:25:32,875
-ماذا .. نمضي قدماً لأين؟
+Apa... ke mana kita akan melangkah selanjutnya?
 
 353
 00:25:32,900 --> 00:25:34,095
-.لا أدري
+.Aku tidak tahu
 
 354
 00:25:34,925 --> 00:25:36,198
-.. (إن (تشارلز
+... (Charles
 
 355
 00:25:36,223 --> 00:25:38,660
-.أياً كان ما بينكما، ستتجاوزانه
+Apa pun yang ada di antara kalian, kalian akan mengatasinya.
 
 356
 00:25:38,720 --> 00:25:39,775
-.لا، لن يحدث
+Tidak, itu tidak akan terjadi.
 
 357
 00:25:40,551 --> 00:25:42,661
-.أنا أحبه، لكنه مختلف
+Aku mencintainya, tapi dia berbeda.
 
 358
 00:25:43,926 --> 00:25:46,505
-.كل شيء .. مختلف الآن
+Semuanya berbeda sekarang.
 
 359
 00:25:46,530 --> 00:25:47,622
-.نعم
+.Ya
 
 360
 00:25:48,258 --> 00:25:50,563
-حسناً، نحن نغير العالم
-.لنتمكن من العيش فيه
+Ya, kita sedang mengubah dunia
+agar kita bisa hidup di dalamnya.
 
 361
 00:25:50,930 --> 00:25:53,165
-.نعم، حسناً ربما هذا ما يجب أن نفعله
+Ya, mungkin memang itu yang seharusnya kita lakukan.
 
 362
 00:25:53,430 --> 00:25:55,805
-.هذه حياتنا، هذا ما أردناه
+Inilah hidup kami, inilah yang kami inginkan.
 
 363
 00:25:55,946 --> 00:25:57,766
-.ليس بهذه الطريقة -
-.(رايفين) -
+Bukan seperti ini. -
+(Raven)
 
 364
 00:25:57,791 --> 00:25:59,922
-.(إنها ليست حياتنا يا (هانك
+(Ini bukan kehidupan kita, Hank)
 
 365
 00:26:00,766 --> 00:26:01,828
-.إنها حياته هو
+Ini hidupnya.
 
 366
 00:26:01,853 --> 00:26:04,664
-إلام يرمز (المتحولون) برأيك؟
+Menurutmu, apa yang dilambangkan oleh "transformer"?
 
 367
 00:26:06,035 --> 00:26:08,885
-تشارلز) ومتحوليه هم من نلجأ إليهم)
+Charles dan para mutannya adalah pihak yang kita mintai bantuan.
 
 368
 00:26:08,910 --> 00:26:11,168
-.حين نواجه أسوأ مخاوفنا
+Saat kita menghadapi ketakutan terburuk kita
 
 369
 00:26:13,550 --> 00:26:15,284
-.شكراً لك سيادة الرئيس
+Terima kasih, Bapak Presiden.
 
 370
 00:26:17,362 --> 00:26:18,472
-.شكراً لكم
+Terima kasih semuanya.
 
 371
 00:26:21,527 --> 00:26:23,994
-كل ما فعلته حقًا هو خلق عالم
+Yang sebenarnya saya lakukan hanyalah menciptakan sebuah dunia.
 
 372
 00:26:24,019 --> 00:26:26,698
-يمكن للأطفال فيه العثور على السلام
+Anak-anak dapat menemukan kedamaian di sana.
 
 373
 00:26:26,723 --> 00:26:29,689
-.والفخر في كونهم مختلفين
+Dan kebanggaan terletak pada menjadi berbeda.
 
 374
 00:26:29,916 --> 00:26:32,001
-الآن، أعلم أن البعض منكم
-يُفضل منادتنا
+Nah, saya tahu sebagian dari Anda
+lebih suka memanggil kami
 
 375
 00:26:32,026 --> 00:26:33,901
-."بـ"أبطال خارقين
+Dengan "pahlawan super"
 
 376
 00:26:34,337 --> 00:26:37,541
-يجب أن أعترف، أنا لا أعرف
-حقًا معنى هذه الكلمة
+Harus saya akui, saya
+sebenarnya tidak tahu apa arti kata ini.
 
 377
 00:26:37,566 --> 00:26:39,924
-ولكنها أفضل مما استخدموه
-.سابقاً لمنادتنا به
+Tapi ini lebih baik daripada
+sebutan yang mereka gunakan sebelumnya untuk kami.
 
 378
 00:26:45,127 --> 00:26:46,385
-.تعال، ارقص معي
+Ayo, berdansa denganku
 
 379
 00:26:46,471 --> 00:26:48,681
-أتريدين الرقص؟ -
-.(هيا يا (سكوت -
+Apakah kamu ingin berdansa? -
+(Ayo, Scott)
 
 380
 00:26:49,392 --> 00:26:52,017
-هل سمعتِ بما ينادونكِ الأطفال؟
+Pernahkah kamu mendengar apa panggilan anak-anak untukmu?
 
 381
 00:26:52,525 --> 00:26:54,400
-هل أريد أن أعرف؟ -
-.نعم -
+Apakah saya ingin tahu? -
+Ya.
 
 382
 00:26:54,674 --> 00:26:56,056
-.العنقاء
+Burung Phoenix
 
 383
 00:26:56,249 --> 00:26:57,356
-هذا رائع، أليس كذلك؟
+Itu bagus sekali, bukan?
 
 384
 00:26:57,381 --> 00:26:59,568
-أتعلمين؟
-.الطائر الذي ينهض من الموت
+Tahukah kamu?
+Burung yang bangkit dari kematian
 
 385
 00:27:04,553 --> 00:27:06,788
-أأنتِ بخير؟
-.ربما يجب أن نستريح
+Apakah kamu baik-baik saja?
+Mungkin kita perlu istirahat.
 
 386
 00:27:07,249 --> 00:27:08,374
-جين)؟)
+Jane))
 
 387
 00:27:13,678 --> 00:27:15,444
-.ابتعد عني
+Jauhi aku.
 
 388
 00:27:15,693 --> 00:27:17,858
-.توقف، توقف، توقف
+Berhenti, berhenti, berhenti
 
 389
 00:27:20,749 --> 00:27:21,983
-.(إنها (جين
+(Ini Jane)
 
 390
 00:27:29,515 --> 00:27:31,632
-توقف، توقف، توقف
+Berhenti, berhenti, berhenti
 
 391
 00:27:31,967 --> 00:27:33,204
-!توقف
+untuk berhenti
 
 392
 00:27:40,994 --> 00:27:42,423
-.مرحباً. شكرا لك
+Hallo Terimakasih.
 
 393
 00:27:47,381 --> 00:27:49,417
-،أنا آسف جميعاً
-.لكن عليّ المغادرة
+Maaf semuanya
+. Tapi saya harus pergi.
 
 394
 00:27:49,442 --> 00:27:51,450
-.شكراً جزيلاً لكم
+Terima kasih banyak.
 
 395
 00:28:31,372 --> 00:28:32,863
-ما الأمر؟
-ماذا ترى؟
+Ada apa?
+Apa yang kamu lihat?
 
 396
 00:28:32,888 --> 00:28:34,075
-.لا شيء
+.Tidak ada apa-apa
 
 397
 00:28:34,385 --> 00:28:37,151
-.تحولها قد نما بقوة
+Transformasinya telah berkembang secara signifikan.
 
 398
 00:28:37,370 --> 00:28:39,698
-.للمرة الأولى، لا يمكنني اختراق عقلها
+Untuk pertama kalinya, aku tidak bisa menembus pikirannya.
 
 399
 00:28:39,917 --> 00:28:41,745
-إذن، أهذا ما نفعله هنا؟
+Jadi, apakah ini yang sedang kita lakukan di sini?
 
 400
 00:28:41,933 --> 00:28:44,425
-.لقد بنيت "سيريبرو" لتعظيم قواي
+Aku membangun Cerebro untuk memaksimalkan kekuatanku.
 
 401
 00:28:44,526 --> 00:28:47,416
-أعتقد أنها الطريقة الوحيدة التي
-.سأتمكن بها من الدخول إلى رأسها الآن
+Kurasa ini satu-satunya cara
+agar aku bisa memahami pikirannya saat ini.
 
 402
 00:29:07,750 --> 00:29:09,507
-هانك)، أيمكنك رفعه رجاءً؟)
+Hank, bisakah kamu mengangkatnya?
 
 403
 00:29:12,461 --> 00:29:14,032
-.أكثر قليلاً. شكراً لك
+Sedikit lagi. Terima kasih.
 
 404
 00:29:17,352 --> 00:29:18,688
-.ها هي ذا
+Ini dia.
 
 405
 00:29:30,016 --> 00:29:32,602
-هل من المفترض أن يبدو هكذا؟
+Apakah memang seharusnya terlihat seperti ini?
 
 406
 00:29:32,829 --> 00:29:35,274
-.عقل المعتل نفسياً يكون هشاً
+Pikiran seorang psikopat itu rapuh.
 
 407
 00:29:36,305 --> 00:29:39,868
-لا يتطلب الأمر سوى ضغطة صغيرة
-.لقيادته في الإتجاه الخاطئ
+Hanya dibutuhkan sedikit tekanan
+untuk mengarahkannya ke arah yang salah.
 
 408
 00:29:40,448 --> 00:29:43,815
-اضطررت إلى إجراء تعديلات
-.على عقلها عندما كانت صغيرة
+Saya harus melakukan penyesuaian
+pada pola pikirnya ketika dia masih kecil.
 
 409
 00:29:44,831 --> 00:29:46,542
-أي نوع من التعديلات؟
+Modifikasi seperti apa?
 
 410
 00:29:47,175 --> 00:29:50,464
-...سقالات... جدران حول
+...perancah...dinding di sekelilingnya
 
 411
 00:29:50,526 --> 00:29:53,026
-.لحمايتها من الصدمات
+Untuk melindunginya dari guncangan
 
 412
 00:29:53,217 --> 00:29:55,436
-ماذا فعلت بها يا (تشارلز)؟
+Apa yang kau lakukan padanya, Charles?
 
 413
 00:29:56,319 --> 00:29:57,811
-.لقد أنقذتها
+Aku menyelamatkannya.
 
 414
 00:30:00,685 --> 00:30:04,483
-.أعتقد أن ما حدث في الفضاء فعل شيء بها
+Saya rasa apa yang terjadi di luar angkasa memengaruhinya.
 
 415
 00:30:05,194 --> 00:30:09,545
-حالياً، يتم هدم كل الجدران
-.التي شيدتها
+Saat ini, semua tembok
+yang telah dibangun sedang dihancurkan.
 
 416
 00:30:12,656 --> 00:30:13,945
-!اهدئي
+Tenang!
 
 417
 00:30:15,969 --> 00:30:17,186
-ما هذا؟
+Apa ini?
 
 418
 00:30:17,211 --> 00:30:18,281
-.لا أدري
+.Aku tidak tahu
 
 419
 00:30:18,624 --> 00:30:20,921
-.إنه ما كنت أحاول إنقاذها منه
+Itulah yang coba saya cegah darinya.
 
 420
 00:30:21,499 --> 00:30:23,359
-.طاولة لشخص واحد
+Meja untuk satu orang
 
 421
 00:30:23,687 --> 00:30:25,171
-.المعتادة
+Seperti biasa
 
 422
 00:30:26,062 --> 00:30:27,515
-ما هذا الصوت؟
+Suara apa itu?
 
 423
 00:30:29,008 --> 00:30:30,273
-تشارلز)؟)
+Charles?
 
 424
 00:30:32,586 --> 00:30:33,703
-تشارلز)؟)
+Charles?
 
 425
 00:30:38,070 --> 00:30:39,586
-.إنها تستيقظ
+Dia sedang bangun tidur
 
 426
 00:30:43,390 --> 00:30:44,547
-جين)؟)
+Jane))
 
 427
 00:30:45,148 --> 00:30:47,320
-.جين)، لا تخافي)
-.إنه أنا فحسب
+Jane, jangan takut
+. Ini cuma aku.
 
 428
 00:30:48,242 --> 00:30:49,896
-.أريدك أن تبقي هادئة
+Aku ingin kamu tetap tenang.
 
 429
 00:30:49,921 --> 00:30:52,664
-.وأريدك أن تركزي على صوتي
+Saya ingin Anda fokus pada suara saya.
 
 430
 00:30:54,523 --> 00:30:56,109
-.اخرج من رأسي
+Keluar dari pikiranku
 
 431
 00:30:56,906 --> 00:30:59,531
-.إبقي هادئة فحسب
+Tetap tenang.
 
 432
 00:31:00,180 --> 00:31:01,469
-.(جين)
+(Jane)
 
 433
 00:31:02,242 --> 00:31:04,648
-.(إنها تحاربني يا (هانك
-.قم برفعه
+"Dia melawan, Hank
+. Angkat dia!"
 
 434
 00:31:07,226 --> 00:31:08,805
-.لقد آذيت والدي
+Aku menyakiti ayahku.
 
 435
 00:31:11,390 --> 00:31:12,577
-.إنه على قيد الحياة
+Dia masih hidup.
 
 436
 00:31:12,602 --> 00:31:14,228
-أنتِ تشعرين بأشياء
-.لا يجب أن تشعري بها
+Kamu merasakan hal-hal
+yang seharusnya tidak kamu rasakan.
 
 437
 00:31:14,253 --> 00:31:16,377
-.عقلك يحتاج للراحة
+Pikiranmu butuh istirahat.
 
 438
 00:31:16,923 --> 00:31:18,103
-...أنت
+...Anda
 
 439
 00:31:18,509 --> 00:31:20,259
-.أنت تكذب عليّ
+Kamu berbohong padaku.
 
 440
 00:31:21,869 --> 00:31:23,298
-.بإمكاني الشعور بهذا
+Aku bisa merasakannya.
 
 441
 00:31:25,806 --> 00:31:27,072
-.إرفعه
+Angkatlah
 
 442
 00:31:27,097 --> 00:31:28,282
-.هذا كثير بالفعل
+Itu terlalu berlebihan!
 
 443
 00:31:28,525 --> 00:31:29,525
-.(لا تفعلها يا (هانك
+Jangan lakukan itu, Hank.
 
 444
 00:31:29,550 --> 00:31:31,259
-!(هانك) -
-.لا، لن أفعل ذلك -
+(Hank) -
+Tidak, aku tidak akan melakukan itu!
 
 445
 00:31:32,580 --> 00:31:34,142
-!(بالله عليك يا (تشارلز
+(Demi Tuhan, Charles!)
 
 446
 00:31:35,486 --> 00:31:37,072
-!اخرج من رأسي
+Keluar dari pikiranku!
 
 447
 00:31:37,494 --> 00:31:38,634
-!(تشارلز)
+Charles!
 
 448
 00:31:39,064 --> 00:31:40,446
-!(تشارلز) -
-!(تشارلز) -
+Charles! -
+Charles!
 
 449
 00:31:42,915 --> 00:31:44,891
-...جين)! أأنتِ)
+...Jane!) Apakah itu kamu?
 
 450
 00:31:45,002 --> 00:31:46,236
-أأنتِ بخير؟
+Apakah kamu baik-baik saja?
 
 451
 00:31:47,087 --> 00:31:49,383
-...ماذا حدث؟ كنّا بالخارج ثم
+Apa yang terjadi? Kami sedang berada di luar, lalu...
 
 452
 00:31:49,416 --> 00:31:51,634
-.لقد تعرضت لحادث
-.وأغمي عليك
+Anda mengalami kecelakaan
+dan pingsan.
 
 453
 00:31:54,361 --> 00:31:56,845
-هل فعلت هذا؟
+Apakah kamu yang melakukan ini?
 
 454
 00:31:57,423 --> 00:31:58,642
-.لا مشكلة
+.Tidak masalah
 
 455
 00:32:00,213 --> 00:32:02,041
-.لا، بل توجد مشكلة
+Tidak, ada masalah.
 
 456
 00:32:02,173 --> 00:32:03,298
-.لقد كان حادثاً
+Itu adalah sebuah kecelakaan.
 
 457
 00:32:03,323 --> 00:32:05,134
-.أنا لا أعرف ماذا يحدث لي
+Aku tidak tahu apa yang terjadi padaku.
 
 458
 00:32:05,159 --> 00:32:06,361
-.لا أستطيع السيطرة عليه
+Aku tidak bisa mengendalikannya.
 
 459
 00:32:06,386 --> 00:32:08,400
-.(لا يمكنني البقاء هنا يا (سكوت
-.يجب أن أذهب حقاً
+"Aku tidak bisa tinggal di sini, Scott
+. Aku benar-benar harus pergi."
 
 460
 00:32:08,425 --> 00:32:09,440
-عمّا تتحدثين؟
+Apa yang kamu bicarakan?
 
 461
 00:32:09,465 --> 00:32:10,421
-إلى أين ستذهبين؟ -
-...أريد أن أرى -
+Kamu mau pergi ke mana? -
+...Aku ingin melihat -
 
 462
 00:32:10,446 --> 00:32:11,743
-.أريد أن أرى أبي
+Aku ingin bertemu ayahku.
 
 463
 00:32:14,204 --> 00:32:15,305
-والدك؟
-...والدك
+Ayahmu?
+...ayahmu
 
 464
 00:32:15,368 --> 00:32:17,219
-.إنه حي، بإمكاني سماعه
+Dia masih hidup, aku bisa mendengarnya.
 
 465
 00:32:17,767 --> 00:32:19,735
-لقد مات في الحادث، أتذكرين؟
+Dia meninggal dalam kecelakaan itu, apakah kamu ingat?
 
 466
 00:32:19,760 --> 00:32:21,352
-.أنا آسفة يا (سكوت)، يجب أن أذهب
+Maaf, Scott, aku harus pergi.
 
 467
 00:32:21,376 --> 00:32:22,376
-.تمهلي. تمهلي
+Pelan-pelan. Pelan-pelan.
 
 468
 00:32:22,414 --> 00:32:23,867
-سكوت)، اتركني اذهب، رجاءً) -
-.تمهلي، من فضلك -
+Scott, kumohon lepaskan aku.
+Tunggu sebentar.
 
 469
 00:32:23,915 --> 00:32:27,127
-.لا أستطيع السيطرة عليه
-.عندما يأتي، لا أستطيع إيقافه
+Aku tak bisa mengendalikannya
+. Saat itu terjadi, aku tak bisa menghentikannya.
 
 470
 00:32:27,673 --> 00:32:29,438
-.حسناً؟ يمكن أن أؤذيك مجدداً
+Oke? Aku bisa menyakitimu lagi.
 
 471
 00:32:29,463 --> 00:32:30,900
-.سأتقبل هذه المخاطرة
+Saya akan menerima risiko ini.
 
 472
 00:32:36,024 --> 00:32:37,157
-.أنا أعلم
+.Aku tahu
 
 473
 00:32:39,461 --> 00:32:40,633
-.أنا أعلم
+.Aku tahu
 
 474
 00:32:41,798 --> 00:32:43,352
-.لكني لن أقبلها
+Tapi aku tidak akan menerimanya.
 
 475
 00:32:54,267 --> 00:32:55,838
-هل سيكون بخير؟ -
-.سأكون بخير -
+Apakah dia akan baik-baik saja? -
+Aku akan baik-baik saja.
 
 476
 00:32:55,908 --> 00:32:57,650
-.هو ليس بخير -
-.سأكون بخير -
+Dia tidak baik-baik saja.
+Aku akan baik-baik saja.
 
 477
 00:32:58,322 --> 00:32:59,713
-ماذا رأيت؟
+Apa yang kamu lihat?
 
 478
 00:33:02,097 --> 00:33:04,495
-.إنها يسيطر عليها .. الرغبة
+Dia dikendalikan oleh... hasrat
 
 479
 00:33:05,034 --> 00:33:08,823
-.الغضب، الألم
+Kemarahan, rasa sakit
 
 480
 00:33:10,644 --> 00:33:12,503
-.وكل هذا يخرج مرة واحدة
+Dan semua ini terungkap sekaligus.
 
 481
 00:33:14,519 --> 00:33:16,183
-.(شيئاً ما يحدث لها يا (رايفين
+Sesuatu sedang terjadi padanya, Raven.
 
 482
 00:33:16,222 --> 00:33:17,987
-.إنها .. تتغير
+Ini sedang berubah.
 
 483
 00:33:19,511 --> 00:33:20,636
-إلى ماذا؟
+Untuk apa?
 
 484
 00:33:21,900 --> 00:33:23,479
-.لا أدري
+.Aku tidak tahu
 
 485
 00:33:25,440 --> 00:33:26,964
-.جين) ذهبت. لقد رحلت)
+Jane sudah pergi. Dia sudah tiada.
 
 486
 00:33:26,989 --> 00:33:28,823
-إلى أين؟ -
-.لا أدري -
+Ke mana? -
+Aku tidak tahu.
 
 487
 00:33:28,880 --> 00:33:30,535
-.تشارلز)، يمكنك تتبعها بعقلك)
+Charles), Anda dapat mengikutinya dengan pikiran Anda.
 
 488
 00:33:30,848 --> 00:33:32,348
-.ليس بعد الآن
+Tidak lagi.
 
 489
 00:33:32,614 --> 00:33:34,823
-،لقد أصبحت قوية جدًا
-.حتى بالنسبة لي
+Dia menjadi sangat kuat
+. Bahkan untukku.
 
 490
 00:33:34,848 --> 00:33:36,716
-.قالت إنها ستذهب لترى والدها
+Dia mengatakan bahwa dia akan menemui ayahnya.
 
 491
 00:33:37,544 --> 00:33:39,278
-هذا ليس منطقياً، صحيح؟
+Itu tidak masuk akal, kan?
 
 492
 00:33:41,028 --> 00:33:42,246
-.جهزوا الطائرة
+Siapkan pesawat.
 
 493
 00:33:42,505 --> 00:33:43,723
-.سنعيدها للديار
+Kami akan membawa mereka pulang.
 
 494
 00:33:43,748 --> 00:33:46,075
-سنغادر؟
-.تشارلز)، حالتك لا تسمح بهذا مطلقاً)
+Kita akan pergi?
+(Charles, kondisimu sama sekali tidak memungkinkan.)
 
 495
 00:33:46,669 --> 00:33:48,763
-...أوقفوا .. لن تجد
+Berhenti... kamu tidak akan menemukan
 
 496
 00:33:49,684 --> 00:33:51,785
-.لن تجد شيئاً محموداً هناك
+Anda tidak akan menemukan sesuatu yang bagus di sana.
 
 497
 00:34:04,971 --> 00:34:06,307
-..هل هذا كل ما تبقى
+Apakah hanya ini yang tersisa?
 
 498
 00:34:06,409 --> 00:34:09,480
-من إمبراطورية (دي باري) العظيمة؟
+Dari kerajaan besar (De Barry)?
 
 499
 00:34:12,573 --> 00:34:14,433
-.(مساء الخير يا (فوك
+Selamat malam, Fook.
 
 500
 00:34:14,458 --> 00:34:15,917
-.مساء الخير
+.Selamat malam
 
 501
 00:34:15,980 --> 00:34:17,761
-هل تعلمت لغتهم؟
+Apakah kamu sudah mempelajari bahasa mereka?
 
 502
 00:34:18,128 --> 00:34:20,807
-.بسهولة
-ماذا تعلمت؟
+Apa yang kamu pelajari dengan mudah
+?
 
 503
 00:34:21,096 --> 00:34:23,104
-...القوة يتم احتوائها
+...gaya tersebut terkendali
 
 504
 00:34:23,167 --> 00:34:25,092
-.داخل واحداً منهم
+Di dalam salah satunya
 
 505
 00:34:26,585 --> 00:34:28,506
-هذه المخلوقات البدائية؟
+Makhluk-makhluk primitif ini?
 
 506
 00:34:28,686 --> 00:34:29,921
-.إنها أكثر قوة
+Ini lebih kuat.
 
 507
 00:34:30,482 --> 00:34:31,725
-.متحولة
+Mutan
 
 508
 00:34:32,726 --> 00:34:34,609
-.ليس لديها أدنى فكرة عمّا يحدث لها
+Dia tidak tahu apa yang sedang terjadi padanya.
 
 509
 00:34:35,459 --> 00:34:37,241
-.يمكنني إستغلال هذا
+Saya bisa memanfaatkan ini.
 
 510
 00:34:37,788 --> 00:34:40,312
-،إذا استطعنا السيطرة على هذه القوة
+Jika kita bisa mengendalikan kekuatan ini
 
 511
 00:34:40,687 --> 00:34:42,476
-.يمكننا إعادة إحياء جنسنا
+Kita bisa menghidupkan kembali spesies kita.
 
 512
 00:34:42,726 --> 00:34:44,148
-.إبدأ مجدداً
+Mulai lagi
 
 513
 00:34:46,537 --> 00:34:47,685
-.هنا
+.Di Sini
 
 514
 00:34:50,969 --> 00:34:52,024
-أين هي؟
+Dimana dia?
 
 515
 00:35:25,940 --> 00:35:27,183
-أيمكنني مساعدتك؟
+Bisakah saya membantu Anda?
 
 516
 00:35:30,058 --> 00:35:31,097
-أبي؟
+Ayahku?
 
 517
 00:35:44,420 --> 00:35:45,420
-جين)؟)
+Jane))
 
 518
 00:35:52,769 --> 00:35:54,933
-كيف تعرف إلى أين نحن
-ذاهبون يا (تشارلز)؟
+Bagaimana kau tahu kita akan
+pergi ke mana, Charles?
 
 519
 00:35:55,807 --> 00:35:58,034
-،إذا كنت لا تستطيع تتبعها
-فكيف تعرف مكانها؟
+Jika Anda tidak dapat melacaknya,
+bagaimana Anda akan tahu di mana letaknya?
 
 520
 00:35:58,059 --> 00:36:00,066
-.تعرفين كيف أعرف مكانها
+Apakah kamu tahu bagaimana aku bisa tahu di mana letaknya?
 
 521
 00:36:00,833 --> 00:36:02,528
-.يا إلهي
+.Astaga
 
 522
 00:36:04,856 --> 00:36:06,286
-ماذا فعلت؟
+Apa yang kamu lakukan?
 
 523
 00:36:07,294 --> 00:36:09,036
-.لقد حميتها
+Aku melindunginya.
 
 524
 00:36:11,528 --> 00:36:12,786
-من الحقيقة؟
+Apa kebenarannya?
 
 525
 00:36:17,176 --> 00:36:18,880
-.هناك كلمة أخرى تعبر عمّا فعلت
+Ada kata lain yang dapat mengungkapkan apa yang telah kamu lakukan.
 
 526
 00:36:22,395 --> 00:36:24,184
-.لقد أخبرني أنك مت
+Dia memberitahuku bahwa kau sudah meninggal.
 
 527
 00:36:25,395 --> 00:36:27,450
-.لم أكن أتوقع أني سأعود هنا
+Aku tidak pernah menyangka akan kembali ke sini.
 
 528
 00:36:28,653 --> 00:36:29,950
-.المكان كما هو
+Tempat itu masih sama seperti dulu.
 
 529
 00:36:33,114 --> 00:36:34,403
-.بأكمله
+Sepenuhnya
 
 530
 00:36:39,020 --> 00:36:43,372
-...هل يمكنني أن أحضر لكِ شيئًا
-لتشربيه أو تأكليه؟
+...Apakah Anda ingin
+minum atau makan sesuatu?
 
 531
 00:36:44,302 --> 00:36:47,715
-.. لا، أنا بخير. أنا
+Tidak, saya baik-baik saja.
 
 532
 00:36:47,801 --> 00:36:49,379
-.أنا بخير حقاً
+Aku baik-baik saja.
 
 533
 00:36:54,009 --> 00:36:55,837
-.من الجيد حقاً رؤيتك
+Senang sekali bertemu denganmu.
 
 534
 00:37:00,376 --> 00:37:03,556
-سأحضر لكِ بعض الماء، حسناً؟
+Aku akan mengambilkanmu air, oke?
 
 535
 00:37:47,817 --> 00:37:49,021
-إهدأ
+tenang
 
 536
 00:37:52,973 --> 00:37:54,239
-جين)؟)
+Jane))
 
 537
 00:38:03,760 --> 00:38:05,971
-.كل هذه الصور، لا يوجد لي صور بينها
+Dari semua foto ini, tidak ada satu pun foto saya.
 
 538
 00:38:11,331 --> 00:38:12,792
-.أنت لم تبحث عني قط
+Kau tak pernah mencariku.
 
 539
 00:38:13,049 --> 00:38:14,033
-.(جين)
+(Jane)
 
 540
 00:38:14,058 --> 00:38:15,565
-لماذا لم تبحث عني؟
+Mengapa kamu tidak mencariku?
 
 541
 00:38:15,693 --> 00:38:17,316
-.ربما يجب علينا أن نجلس
+Mungkin sebaiknya kita duduk.
 
 542
 00:38:17,341 --> 00:38:19,152
-.لا، أنا لا أريد الجلوس
+Tidak, saya tidak mau duduk.
 
 543
 00:38:19,177 --> 00:38:21,185
-لماذا لم تأت للبحث عني؟
+Mengapa kamu tidak mencariku?
 
 544
 00:38:22,266 --> 00:38:24,664
-.ولا تحاول أن تكذب، أستطيع أن أقرأ عقلك
+Jangan coba berbohong; aku bisa membaca pikiranmu.
 
 545
 00:38:25,891 --> 00:38:27,477
-.لا يمكنني الإعتناء بها
+Aku tidak bisa merawatnya.
 
 546
 00:38:28,157 --> 00:38:30,453
-.أنا لا أعرف كينونتها حتى
+Aku bahkan tidak tahu itu apa.
 
 547
 00:38:31,688 --> 00:38:32,977
-.أنا أعرف
+.Aku tahu
 
 548
 00:38:33,578 --> 00:38:35,344
-إذن، هل ستأخذها؟
+Jadi, maukah Anda mengambilnya?
 
 549
 00:38:37,453 --> 00:38:38,852
-.أنت حتى لم تودعني
+Kau bahkan tidak mengucapkan selamat tinggal padaku.
 
 550
 00:38:40,141 --> 00:38:42,696
-.لم تتح لي الفرصة لأودع والدتك
+Aku tidak sempat mengucapkan selamat tinggal kepada ibumu.
 
 551
 00:38:42,758 --> 00:38:44,133
-.كنت في الثامنة من عمري
+Saya berumur delapan tahun.
 
 552
 00:38:44,469 --> 00:38:46,594
-كيف يمكنك أن تفعل ذلك بي؟
+Bagaimana bisa kau melakukan itu padaku?
 
 553
 00:38:47,516 --> 00:38:49,008
-أتريدين الولوج لعقلي؟
+Apakah kamu ingin masuk ke dalam pikiranku?
 
 554
 00:38:52,032 --> 00:38:53,508
-.فلتأتي كلياً إذن
+Jadi datanglah sepenuhnya
 
 555
 00:38:53,961 --> 00:38:55,914
-.لا تنس ما فعلتيه
+Jangan lupakan apa yang telah kamu lakukan.
 
 556
 00:39:02,785 --> 00:39:03,871
-.لست أنا
+Bukan aku.
 
 557
 00:39:06,985 --> 00:39:08,274
-إهدأ
+tenang
 
 558
 00:39:14,456 --> 00:39:15,542
-.لا
+.TIDAK
 
 559
 00:39:25,242 --> 00:39:26,821
-.(أنا آسف يا (جين
+Maafkan aku, Jane.
 
 560
 00:39:27,821 --> 00:39:30,289
-.لكن عالمي بأسره مات في ذلك اليوم
+Namun, seluruh duniaku hancur pada hari itu.
 
 561
 00:39:32,430 --> 00:39:35,539
-.وأنتِ رحلتِ معه
+Dan kau pergi bersamanya.
 
 562
 00:39:41,406 --> 00:39:43,336
-.جين)، لا تفعلي. رجاءً)
+Jane, kumohon jangan.
 
 563
 00:39:43,758 --> 00:39:44,758
-.توقفي
+Berhenti.
 
 564
 00:39:44,891 --> 00:39:45,969
-.توقفي عن ذلك
+Hentikan.
 
 565
 00:39:46,000 --> 00:39:48,422
-.لست أنا. بل هم
+Bukan aku. Itu mereka.
 
 566
 00:40:11,964 --> 00:40:13,808
-.لم يكن عليك القدوم هنا
+Kamu tidak perlu datang ke sini.
 
 567
 00:40:15,110 --> 00:40:17,227
-لماذا هذا؟ لقد جئنا فقط
-.(لنعيدك إلى المنزل يا (جين
+Mengapa demikian? Kami hanya datang
+untuk mengantarmu pulang, Jane.
 
 568
 00:40:17,252 --> 00:40:20,102
-.ليس لدي منزل
-.لقد حرصت على هذا
+Aku tidak punya rumah
+. Aku sudah memastikan itu.
 
 569
 00:40:20,274 --> 00:40:24,328
-اسمعيني، والدك لم يستطع التعامل معك
-.ونحن أخذناكِ
+Dengarkan aku, ayahmu tidak akan sanggup mengurusmu
+. Kami mengadopsimu.
 
 570
 00:40:24,633 --> 00:40:26,938
-.قلت لي أن والدي مات
+Kau memberitahuku bahwa ayahku telah meninggal
 
 571
 00:40:26,963 --> 00:40:28,828
-.وأستغللتني لقواي
+Dan kau memanfaatkan kekuatanku.
 
 572
 00:40:28,875 --> 00:40:31,149
-.لا، هذا ليس صحيحًا
-.هذا ليس ما حدث
+Tidak, itu tidak benar
+. Bukan itu yang terjadi.
 
 573
 00:40:31,797 --> 00:40:33,664
-.جين)، يمكننا مساعدتك)
-أستطيع مساعدتك
+Jane, kami bisa membantumu.
+Aku bisa membantumu .
 
 574
 00:40:33,750 --> 00:40:35,296
-.ولكن عليك أن تستمعي إليّ
+Tapi kamu harus mendengarkanku.
 
 575
 00:40:35,321 --> 00:40:37,024
-.لا، لا. ليس عليّ أن أستمع إليك
+Tidak, tidak. Aku tidak harus mendengarkanmu.
 
 576
 00:40:37,117 --> 00:40:38,617
-.(سكوت)
+(Scott)
 
 577
 00:40:41,352 --> 00:40:43,727
-.(لقد كذبت عليّ يا (سكوت
-.بخصوص كل شيء
+Kau berbohong padaku, Scott
+, tentang segalanya.
 
 578
 00:40:43,752 --> 00:40:45,679
-.سنتدبر كل الأمر سوياً
-.عودي إليّ فحسب
+Kita akan menyelesaikan semuanya bersama-sama
+. Silakan hubungi saya kembali.
 
 579
 00:40:45,703 --> 00:40:47,821
-أتذكرين؟
-.قلتِ أنكِ ستعودين إليّ دوماً
+Apakah kamu ingat?
+Kamu pernah bilang akan selalu kembali padaku.
 
 580
 00:40:50,639 --> 00:40:51,827
-.عودي إليّ
+Kembalilah padaku
 
 581
 00:40:57,967 --> 00:40:59,037
-.(جين)
+(Jane)
 
 582
 00:41:01,702 --> 00:41:02,827
-.إبتعدوا عني
+Jauhi aku.
 
 583
 00:41:03,413 --> 00:41:04,686
-.إبتعدوا عني
+Jauhi aku.
 
 584
 00:41:04,991 --> 00:41:06,147
-.إبتعدوا عني
+Jauhi aku.
 
 585
 00:41:08,697 --> 00:41:10,905
-!أوقفوها، بسرعة -
-!تشارلز)، انتظر، انتظر) -
+Hentikan dia, cepat
+! (Charles!) Tunggu, tunggu!
 
 586
 00:41:23,235 --> 00:41:24,618
-!جين)، من فضلك)
+Jane, tolong!
 
 587
 00:42:02,149 --> 00:42:03,946
-!جين)، توقفي)
+Jane, hentikan!
 
 588
 00:42:03,971 --> 00:42:06,149
-.إنها في مرمى بصري. سأطلق النار -
-.لا، لن تفعل -
+Dia berada dalam garis pandangku. Aku akan menembak. -
+Tidak, kau tidak akan menembak.
 
 589
 00:42:06,868 --> 00:42:08,672
-.(أنا آسف يا (هانك
-.أريد أن تحظى (رايفين) بفرصتها
+Maafkan aku, Hank
+. Aku ingin Raven mendapatkan kesempatannya.
 
 590
 00:42:14,255 --> 00:42:16,035
-.قلت لكم أن تبتعدوا
+Aku sudah bilang untuk menjauh.
 
 591
 00:42:16,060 --> 00:42:17,755
-.هذا لن يحدث أبداً
+Ini tidak akan pernah terjadi.
 
 592
 00:42:20,677 --> 00:42:22,496
-.توقفي، رجاءً
+Tolong berhenti.
 
 593
 00:42:22,521 --> 00:42:24,685
-.ليس قبل أن أعلم أنكِ ستكونين بخير
+Tidak sebelum aku yakin kau akan baik-baik saja.
 
 594
 00:42:24,989 --> 00:42:27,716
-.شيء ما... يحدث لي
+Sesuatu... sedang terjadi padaku
 
 595
 00:42:27,904 --> 00:42:29,622
-.عودي للمنزل إذن
+Kalau begitu, pulanglah.
 
 596
 00:42:30,068 --> 00:42:31,560
-.دعيني أعتني بك
+Izinkan saya merawatmu.
 
 597
 00:42:31,904 --> 00:42:33,325
-.لا، لا يمكنك ذلك
+Tidak, kamu tidak bisa.
 
 598
 00:42:33,630 --> 00:42:35,263
-...لا يمكنك، أنت لا
+...kamu tidak bisa, kamu tidak
 
 599
 00:42:38,075 --> 00:42:40,739
-.لا تعرفين كيف يبدو الأمر
+Kamu tidak tahu seperti apa bentuknya.
 
 600
 00:42:41,880 --> 00:42:43,161
-.أخبريني إذن
+Kalau begitu, ceritakan padaku
 
 601
 00:42:43,825 --> 00:42:46,193
-...لأنه حين يأتي
+...karena ketika dia datang
 
 602
 00:42:48,310 --> 00:42:49,693
-.يتأذى الناس
+Ada orang yang terluka.
 
 603
 00:42:51,650 --> 00:42:53,463
-.(أنا لست خائفة منكِ يا (جين
+Aku tidak takut padamu, Jane.
 
 604
 00:42:53,736 --> 00:42:54,861
-.أنظري إليّ
+Lihatlah aku.
 
 605
 00:42:54,994 --> 00:42:56,564
-.ركزي على صوتي
+Fokus pada suara saya.
 
 606
 00:42:56,807 --> 00:42:58,658
-.سنتجاوز هذا سوياً
+Kita akan melewati ini bersama-sama.
 
 607
 00:42:58,852 --> 00:43:00,821
-.(لن أتخلى عنكِ يا (جين
+Aku tidak akan meninggalkanmu, Jane.
 
 608
 00:43:00,846 --> 00:43:03,633
-.هذا ما تفعله العائلة
-.تعتني ببعضها البعض
+Itulah yang dilakukan sebuah keluarga
+. Mereka saling menjaga satu sama lain.
 
 609
 00:43:03,880 --> 00:43:05,919
-.(أنتِ عائلتي يا (جين
+Kamu adalah keluargaku, Jane.
 
 610
 00:43:52,447 --> 00:43:54,806
-.لا يمكنني... إلتقاط أنفاسي
+Aku tidak bisa... bernapas
 
 611
 00:44:00,721 --> 00:44:01,729
-.أنا أحبك
+.Aku mencintaimu
 
 612
 00:44:02,247 --> 00:44:03,247
-ماذا؟
+Apa?
 
 613
 00:44:15,044 --> 00:44:16,286
-.رايفين)، رجاءً)
+(Raven), tolong)
 
 614
 00:44:23,617 --> 00:44:25,860
-.رايفين)، لا تتركيني)
+Raven, jangan tinggalkan aku.
 
 615
 00:44:28,391 --> 00:44:29,469
-.لا
+.TIDAK
 
 616
 00:44:32,103 --> 00:44:33,165
-.لا
+.TIDAK
 
 617
 00:45:00,618 --> 00:45:02,384
-.جميعنا في حرب
+Kita semua sedang berperang.
 
 618
 00:45:03,118 --> 00:45:04,751
-.في حرب مع أنفسنا
+Kita sedang berperang dengan diri kita sendiri.
 
 619
 00:45:06,016 --> 00:45:09,266
-رايفين) كانت تخوض هذه)
-.الحرب طوال حياتها
+Raven telah berjuang dalam
+perang ini sepanjang hidupnya.
 
 620
 00:45:10,446 --> 00:45:11,923
-.أتمنى أن تجد السلام الآن
+Semoga kamu menemukan kedamaian sekarang.
 
 621
 00:45:14,860 --> 00:45:17,493
-ماتت (رايفين) وهي تفعل
-.ما كانت تجيد فعله
+Raven meninggal saat melakukan
+hal yang paling ia kuasai.
 
 622
 00:45:18,243 --> 00:45:19,993
-.مساعدة صديق
+Membantu seorang teman
 
 623
 00:45:20,774 --> 00:45:22,212
-.صديق يحتاج لمساعدتها
+Seorang teman membutuhkan bantuannya.
 
 624
 00:45:24,907 --> 00:45:26,618
-.إنها لم تمت
+Dia belum meninggal.
 
 625
 00:45:27,852 --> 00:45:30,649
-.ستعيش بداخلي
+Kau akan tinggal di dalam diriku
 
 626
 00:45:31,117 --> 00:45:32,352
-.بداخلنا جميعاً
+Di dalam diri kita semua
 
 627
 00:45:33,422 --> 00:45:35,634
-.(وبداخل روح (المتحولين
+(Dan dalam semangat para pengubah wujud)
 
 628
 00:45:45,930 --> 00:45:47,297
-أهذا صحيح؟
+Apakah ini benar?
 
 629
 00:45:47,688 --> 00:45:49,368
-هل قتلتها (جين)؟
+Apakah Jane membunuhnya?
 
 630
 00:45:58,633 --> 00:46:00,297
-.لم تكن تعرف ماذا كانت تفعل
+Dia tidak tahu apa yang sedang dia lakukan.
 
 631
 00:46:01,297 --> 00:46:03,071
-.فقدت (جين) السيطرة
+Jane kehilangan kendali
 
 632
 00:46:04,352 --> 00:46:06,266
-.(لكنها لا تزال (جين
+Tapi dia tetaplah (Jane)
 
 633
 00:46:06,969 --> 00:46:09,024
-.لا تزال صديقنا
+Kamu tetap teman kami
 
 634
 00:46:09,633 --> 00:46:11,750
-.لا يزال بإمكاننا مساعدتها
-.بإمكاننا إيجادها
+Kita masih bisa membantunya
+. Kita bisa menemukannya.
 
 635
 00:46:12,922 --> 00:46:14,227
-.ونعيدها للديار
+Dan kami membawanya pulang.
 
 636
 00:46:17,586 --> 00:46:20,102
-هذا ما سنفعله، حسناً؟
+Itulah yang akan kita lakukan, oke?
 
 637
 00:46:32,235 --> 00:46:34,250
-.(لم يكن الأمر حادثاً يا (سكوت
+Itu bukan kecelakaan, Scott.
 
 638
 00:46:35,750 --> 00:46:37,266
-.(لقد قتلت (رايفين
+(Aku membunuh Raven)
 
 639
 00:46:37,368 --> 00:46:40,250
-ربما لا يمكنك الإعتراف
-.بهذا لنفسك أو لهم
+Mungkin Anda tidak bisa mengakui
+hal ini kepada diri sendiri atau kepada mereka.
 
 640
 00:46:40,657 --> 00:46:42,071
-.ولكنها الحقيقة
+Tapi itulah kenyataan.
 
 641
 00:46:42,930 --> 00:46:44,211
-.(تلك لم تكن (جين
+Itu bukan Jane.
 
 642
 00:46:44,289 --> 00:46:45,797
-.ليست (جين) التي أعرفها
+Ini bukan Jane yang kukenal.
 
 643
 00:46:49,450 --> 00:46:50,755
-،في بعض الأحيان
+Kadang-kadang
 
 644
 00:46:50,780 --> 00:46:53,834
-.نرفض أن نرى الناس على حقيقتهم
+Kita menolak untuk melihat orang lain sebagaimana adanya.
 
 645
 00:46:55,412 --> 00:46:57,951
-،وحين تراهم على حقيقتهم
+Saat kamu melihat mereka apa adanya.
 
 646
 00:46:59,177 --> 00:47:00,544
-.يكون قد فات الأوان
+Nanti sudah terlambat.
 
 647
 00:47:25,882 --> 00:47:27,052
-،أتعلم
+Saya belajar
 
 648
 00:47:27,077 --> 00:47:30,147
-هذا هو المكان الذي
-.قابلت فيه (رايفين) لأول مرة
+Di sinilah
+aku pertama kali bertemu Raven.
 
 649
 00:47:34,655 --> 00:47:36,600
-.كانت مجرد فتاة صغيرة
+Dia hanyalah seorang gadis kecil.
 
 650
 00:47:37,303 --> 00:47:41,146
-.واقتحمت المكان بحثاً عن طعام
+Dia menerobos masuk ke tempat itu untuk mencari makanan.
 
 651
 00:47:42,178 --> 00:47:43,552
-قلت لها أن بإمكانها البقاء
+Aku bilang padanya dia boleh tinggal
 
 652
 00:47:43,577 --> 00:47:46,319
-.ولن تجوع مجدداً أبداً
+Anda tidak akan pernah kelaparan lagi.
 
 653
 00:47:46,545 --> 00:47:50,592
-.ثُم أعتقد أنني وعدتها بحياة أفضل
+Lalu, kurasa aku telah menjanjikannya kehidupan yang lebih baik.
 
 654
 00:47:51,936 --> 00:47:53,975
-.ثُم سلبتها تلك الحياة
+Lalu kehidupan itu merenggut nyawanya.
 
 655
 00:47:54,951 --> 00:47:57,100
-أستميحك عذراً؟ -
-.لقد سمعتني -
+Permisi? -
+Anda tidak salah dengar.
 
 656
 00:47:57,991 --> 00:48:00,444
-.(هانك) -
-.(هذا خطأك يا (تشارلز -
+(Hank) -
+(Ini salahmu, Charles)
 
 657
 00:48:01,888 --> 00:48:03,655
-.موتها خطأك
+Kematiannya adalah kesalahanmu.
 
 658
 00:48:03,835 --> 00:48:05,053
-.بحقك، هذا ليس عدلاً
+Sejujurnya, ini tidak adil.
 
 659
 00:48:05,078 --> 00:48:06,467
-عدلاً؟
-.أنا لا أتحدث عن العدل
+Keadilan?
+Aku tidak sedang membicarakan keadilan.
 
 660
 00:48:06,492 --> 00:48:08,514
-لقد عبثت بعقل فتاة
-.في الثامنة من عمرها
+Aku mempermainkan pikiran seorang
+gadis berusia delapan tahun.
 
 661
 00:48:08,539 --> 00:48:10,163
-.لقد دفعت كل هذا الألم والغضب
+Aku telah membayar semua rasa sakit dan kemarahan ini.
 
 662
 00:48:10,202 --> 00:48:11,389
-أين أعتقدت أنه سيختفي؟
+Menurutmu dia akan menghilang ke mana?
 
 663
 00:48:11,454 --> 00:48:12,913
-.فعلت ذلك لمساعدتها
-.كل ما افعله، أفعله لمساعدتها
+Aku melakukannya untuk membantunya
+. Semua yang kulakukan, kulakukan untuk membantunya.
 
 664
 00:48:12,938 --> 00:48:14,107
-!بحقك رجاءً
+Silakan!
 
 665
 00:48:14,132 --> 00:48:15,866
-ألا زلت لا ترى أين أخطأت؟
+Apakah kamu masih belum mengerti di mana letak kesalahanmu?
 
 666
 00:48:16,438 --> 00:48:17,532
-...هذا
+...ini
 
 667
 00:48:17,587 --> 00:48:19,548
-!(لا، أنت بحاجة لمواجهة الأمر يا (تشارلز
+Tidak, kamu harus menghadapi ini, Charles!
 
 668
 00:48:19,593 --> 00:48:21,989
-،يجب أن تواجه الأمر! هيا
-!اعترف بالأمر الآن
+Kamu harus menghadapinya! Ayolah
+! Akui sekarang juga!
 
 669
 00:48:22,014 --> 00:48:23,063
-!اعترف بذلك
+Aku akui!
 
 670
 00:48:24,100 --> 00:48:26,234
-.تشارلز)، اعترف أنك أخطأت، رجاءً)
+Charles, akui saja bahwa kamu salah.
 
 671
 00:48:31,514 --> 00:48:32,796
-.لا زلت لا تستطيع
+Kamu tetap tidak bisa
 
 672
 00:48:36,280 --> 00:48:38,155
-.(آمل حقًا أن تشعر بتحسن يا (هانك
+Aku sangat berharap kamu cepat sembuh, Hank.
 
 673
 00:48:38,624 --> 00:48:39,764
-آمل أن غضبك عليّ
+Saya harap kemarahan Anda terhadap saya
 
 674
 00:48:39,789 --> 00:48:42,233
-بعد خمس دقائق من دفني
-لأختي بالتبني
+Lima menit setelah saya menguburkan
+saudara perempuan angkat saya
 
 675
 00:48:42,258 --> 00:48:43,272
-...يجعلك تشعر
+...membuatmu merasa
 
 676
 00:48:43,497 --> 00:48:45,783
-.الأمر لا يتعلق بي
-أنا أعلم فيما أخطأت، حسناً يا (تشارلز)؟
+Ini bukan tentang aku.
+Aku tahu di mana letak kesalahanku, oke, Charles?
 
 677
 00:48:45,808 --> 00:48:47,049
-.كانت ستغادر
+Dia akan pergi
 
 678
 00:48:47,074 --> 00:48:48,550
-.رايفين) كانت ستغادر)
+Raven hendak pergi.
 
 679
 00:48:48,575 --> 00:48:50,261
-!ولكني أقنعتها بعكس ذلك
+Tapi aku berhasil meyakinkannya sebaliknya!
 
 680
 00:48:53,363 --> 00:48:55,402
-.لقد رأت ما لم يره بقيتنا
+Dia melihat apa yang tidak dilihat oleh kita semua.
 
 681
 00:48:58,038 --> 00:48:59,231
-وماذا كان ذلك؟
+Lalu apa itu?
 
 682
 00:48:59,256 --> 00:49:00,200
-،كل هذا الوقت
+selama ini
 
 683
 00:49:00,225 --> 00:49:01,938
-نحن نحاول حماية هؤلاء
-،الأطفال من العالم
+Kami berusaha melindungi
+anak-anak ini dari dunia luar.
 
 684
 00:49:01,963 --> 00:49:04,830
-.حين كان يجب أن نحميهم منك أنت
+Padahal seharusnya kami melindungi mereka dari Anda.
 
 685
 00:49:11,216 --> 00:49:13,521
-.أنا لا أعرف ماذا يحدث لي
+Aku tidak tahu apa yang terjadi padaku.
 
 686
 00:49:17,591 --> 00:49:18,755
-لماذا؟
+Mengapa?
 
 687
 00:49:21,091 --> 00:49:22,513
-لماذا فعلت ذلك؟
+Mengapa kamu melakukan itu?
 
 688
 00:49:51,624 --> 00:49:52,936
-..غير مسموح للمدنيين تجاوز هذا
+Warga sipil tidak diperbolehkan melewati garis ini.
 
 689
 00:49:52,961 --> 00:49:54,311
-."مكتب التحقيقات الفيدرالي"
+Biro Investigasi Federal (FBI)
 
 690
 00:50:01,155 --> 00:50:02,358
-.اترك لنا الغرفة
+Serahkan ruangan ini kepada kami.
 
 691
 00:50:12,259 --> 00:50:14,322
-ومن تكونون؟
+Siapa kamu?
 
 692
 00:50:17,196 --> 00:50:19,970
-.(نحن من سنقوم بمساعدتك يا سيد (غراي
+Kamilah yang akan membantu Anda, Tuan Gray.
 
 693
 00:50:22,564 --> 00:50:24,759
-.لم أكن أعرف أنها ستعود
+Aku tidak tahu dia akan kembali.
 
 694
 00:50:26,853 --> 00:50:28,892
-.أنا آسف على كل هذا
+Aku minta maaf atas semua ini.
 
 695
 00:50:29,877 --> 00:50:31,205
-.لا عليك
+Ini bukan salahmu
 
 696
 00:50:36,814 --> 00:50:40,141
-نريد الحصول على صورة دقيقة
-.عمن تكون (جين) حقاً
+Kami ingin mendapatkan gambaran yang akurat tentang
+siapa Jane sebenarnya.
 
 697
 00:50:40,166 --> 00:50:42,728
-أخبرنا عن الوقت الذي سلمتها
-.فيه للمتحول
+Sebutkan waktu Anda menyerahkannya kepada
+orang transgender tersebut.
 
 698
 00:50:50,509 --> 00:50:51,822
-.. ربما
+.. Mungkin
 
 699
 00:50:53,361 --> 00:50:56,056
-.قد يكون أفضل لو تحدثت إلى محام
+Mungkin akan lebih baik jika Anda berkonsultasi dengan pengacara.
 
 700
 00:51:00,558 --> 00:51:02,418
-.(أنا آسفة للغاية يا سيد (غراي
+Saya sangat menyesal, Tuan Gray.
 
 701
 00:51:02,637 --> 00:51:05,215
-.لكن يجب أن أعرف كل شيء عنها الآن
+Tapi aku perlu tahu segalanya tentang dia sekarang.
 
 702
 00:51:07,996 --> 00:51:10,496
-.هذا تطور مؤسف حقاً
+Ini adalah perkembangan yang benar-benar disayangkan.
 
 703
 00:51:10,582 --> 00:51:12,379
-لماذا هذا؟
+Mengapa demikian?
 
 704
 00:51:12,980 --> 00:51:15,917
-...لأنه من الأسهل بكثير فهم لغتك
+...karena jauh lebih mudah untuk memahami bahasa Anda
 
 705
 00:51:15,964 --> 00:51:17,855
-.وأنت لا تصرخ
+Dan kamu tidak berteriak.
 
 706
 00:52:05,789 --> 00:52:06,992
-من أنتِ؟
+Siapa kamu?
 
 707
 00:52:08,938 --> 00:52:10,157
-ما الذي تفعليه هنا؟
+Apa yang kamu lakukan di sini?
 
 708
 00:52:14,202 --> 00:52:15,718
-.أجيبي على السؤال
+Jawablah pertanyaan tersebut.
 
 709
 00:52:27,699 --> 00:52:28,941
-.اتركها
+Biarkan saja.
 
 710
 00:52:31,176 --> 00:52:32,847
-لماذا أنتِ هنا؟
+Mengapa kamu di sini?
 
 711
 00:52:42,879 --> 00:52:44,066
-هل تأذيتِ؟
+Apakah kamu terluka?
 
 712
 00:52:45,160 --> 00:52:46,176
-.لا
+.TIDAK
 
 713
 00:52:47,762 --> 00:52:49,097
-.يجب أن تسامحيهم
+Kamu harus memaafkan mereka.
 
 714
 00:52:49,637 --> 00:52:52,012
-.إنهم غير معتادين على ظهور الغرباء
+Mereka tidak terbiasa dengan kehadiran orang asing.
 
 715
 00:52:54,347 --> 00:52:55,417
-.رجاءً
+.Tolong
 
 716
 00:53:05,956 --> 00:53:07,660
-لماذا لا تبدأي من البداية؟
+Mengapa kamu tidak mulai dari awal?
 
 717
 00:53:11,816 --> 00:53:13,199
-دم من هذا؟
+Darah siapa ini?
 
 718
 00:53:15,699 --> 00:53:16,776
-ماذا؟
+Apa?
 
 719
 00:53:16,801 --> 00:53:19,277
-.على قميصك
-دم من هذا؟
+Darah siapa yang ada di bajumu
+?
 
 720
 00:53:21,097 --> 00:53:23,512
-.(اسمعيني، أنا لست (تشارلز
+Dengarkan aku, aku bukan Charles.
 
 721
 00:53:24,965 --> 00:53:26,644
-.لا أستطيع قراءة عقلك
+Aku tidak bisa membaca pikiranmu.
 
 722
 00:53:32,784 --> 00:53:34,300
-.أنت تؤذي الناس
+Kamu menyakiti orang lain.
 
 723
 00:53:36,285 --> 00:53:38,128
-.كان ذلك منذ زمن -
-.لكنك فعلت -
+Itu sudah lama sekali
+. Tapi kamu memang melakukannya.
 
 724
 00:53:38,988 --> 00:53:39,900
-.نعم
+.Ya
 
 725
 00:53:39,925 --> 00:53:41,715
-ما الذي أتيتِ إلى هنا لتسألي عنه؟
+Anda datang ke sini untuk bertanya apa?
 
 726
 00:53:42,176 --> 00:53:44,386
-كيف توقفت؟
+Bagaimana itu berhenti?
 
 727
 00:53:51,668 --> 00:53:54,027
-.لقد عشت والإنتقام يصاحبني طوال حياتي
+Sepanjang hidupku, dendam selalu menjadi teman setiaku.
 
 728
 00:53:55,519 --> 00:53:57,199
-،منذ أن كنت طفلاً
+Sejak saya masih kecil
 
 729
 00:53:57,269 --> 00:54:00,394
-.فقدت كل شخص أحببته
+Aku kehilangan semua orang yang kucintai.
 
 730
 00:54:00,629 --> 00:54:03,418
-.لذلك... آذيت أناساً
+Oleh karena itu... aku menyakiti orang lain
 
 731
 00:54:03,683 --> 00:54:05,012
-.نعم
+.Ya
 
 732
 00:54:05,136 --> 00:54:06,347
-.قتلت أناساً
+Aku membunuh orang
 
 733
 00:54:08,221 --> 00:54:10,893
-قتلت كل ما اعتقدت أنه سيجعل
-.الألم يتلاشى
+Aku menghancurkan semua yang kupikir akan membuat rasa sakit itu
+hilang.
 
 734
 00:54:13,901 --> 00:54:15,071
-.لكنه لم يتلاش
+Namun, itu tidak menghilang.
 
 735
 00:54:15,096 --> 00:54:17,455
-.مهما أزهقت من أرواح
+Tidak peduli berapa banyak nyawa yang hilang
 
 736
 00:54:20,416 --> 00:54:21,690
-.لذلك توقفت
+Oleh karena itu, saya berhenti.
 
 737
 00:54:23,197 --> 00:54:24,963
-.أنا لا أعرف كيف أتوقف
+Aku tidak tahu bagaimana cara berhenti.
 
 738
 00:54:28,072 --> 00:54:29,854
-.أنا لا أعرف ماذا يحدث لي
+Aku tidak tahu apa yang terjadi padaku.
 
 739
 00:54:36,682 --> 00:54:38,908
-...عندما أفقد السيطرة
+...ketika aku kehilangan kendali
 
 740
 00:54:41,237 --> 00:54:44,080
-.تحدث أمور سيئة
+Hal-hal buruk terjadi
 
 741
 00:54:46,752 --> 00:54:48,432
-.للأشخاص الذين أحبهم
+Untuk orang-orang yang kucintai
 
 742
 00:54:55,330 --> 00:54:56,541
-دم من هذا؟
+Darah siapa ini?
 
 743
 00:54:59,158 --> 00:55:00,885
-أليس هذا سبب مجيئك إلى هنا؟
+Bukankah ini alasanmu datang ke sini?
 
 744
 00:55:00,910 --> 00:55:02,143
-ماذا يمكنني أن أفعل لكِ برأيك؟
+Menurutmu apa yang bisa kulakukan untukmu?
 
 745
 00:55:02,168 --> 00:55:04,572
-!لا أعلم -
-.بل تعلمين -
+Aku tidak tahu! -
+Tapi kamu tahu!
 
 746
 00:55:04,690 --> 00:55:06,330
-دم من هذا؟ -
-.لا أريد التحدث عن الأمر -
+Darah siapa ini? -
+Aku tidak mau membicarakannya.
 
 747
 00:55:06,393 --> 00:55:07,704
-هل آذيتِ شخصاً ما؟ -
-!رجاءً -
+Apakah kamu menyakiti seseorang? -
+Tolong!
 
 748
 00:55:07,729 --> 00:55:08,994
-.(أجيبي عن السؤال يا (جين
+Jawablah pertanyaan itu, Jane.
 
 749
 00:55:09,057 --> 00:55:10,612
-.توقف يا (إيريك)، أنت تغضبني
+Hentikan, Eric, kau membuatku marah.
 
 750
 00:55:10,637 --> 00:55:12,315
-.جيد! أريدك ان تغضبي
+Bagus! Aku ingin kau marah.
 
 751
 00:55:12,339 --> 00:55:14,265
-.(أريني ما يحدث لكِ يا (جين -
-!لا اريد ان أؤذيك -
+Tunjukkan padaku apa yang terjadi padamu, Jane
+! Aku tidak ingin menyakitimu!
 
 752
 00:55:14,291 --> 00:55:15,648
-ماذا يحدث عندما تغضبي؟
-.أرني
+Apa yang terjadi saat kamu marah?
+Tunjukkan padaku.
 
 753
 00:55:15,673 --> 00:55:16,907
-...أرني -
-!توقف -
+Tunjukkan padaku
+! Hentikan!
 
 754
 00:55:18,505 --> 00:55:19,708
-هناك شخصيات عسكرية
+Ada tokoh-tokoh militer.
 
 755
 00:55:20,278 --> 00:55:21,426
-.قادمين
+Segera hadir
 
 756
 00:55:22,396 --> 00:55:23,896
-.ابقي هنا
+Tetaplah di sini
 
 757
 00:55:30,815 --> 00:55:32,526
-.طائرتين. تابعتين للولايات المتحدة
+Dua pesawat AS
 
 758
 00:55:32,697 --> 00:55:34,776
-.أخبري الجميع أن يبقوا هادئين، لكن متأهبين
+Sampaikan kepada semua orang untuk tetap tenang, tetapi waspada.
 
 759
 00:56:05,487 --> 00:56:07,096
-.حسناً، هذه المسافة كافية
+Oke, jarak ini sudah cukup.
 
 760
 00:56:16,065 --> 00:56:18,088
-.لدينا الحق القانوني في أن نكون هنا
+Kami memiliki hak hukum untuk berada di sini.
 
 761
 00:56:19,385 --> 00:56:21,594
-.لقد منحتنا الحكومة الأمريكية هذه الأرض
+Pemerintah Amerika memberikan tanah ini kepada kami.
 
 762
 00:56:21,619 --> 00:56:23,518
-.وليس لدينا نية في استعادتها
+Kami tidak berniat untuk mengambilnya kembali.
 
 763
 00:56:24,463 --> 00:56:25,588
-.نحن لسنا هنا من أجلك
+Kami tidak di sini untukmu.
 
 764
 00:56:25,916 --> 00:56:28,432
-.(نحن نبحث عن أحد (المتحولين
-.(جين غراي)
+Kami sedang mencari salah satu (mutan
+). (Jean Grey)
 
 765
 00:56:28,650 --> 00:56:30,463
-.لم أرها منذ وقت طويل
+Aku sudah lama tidak bertemu dengannya.
 
 766
 00:56:30,651 --> 00:56:32,565
-.إذن لن تمانع أن ألقي نظرة حول المكان
+Jadi, Anda tidak keberatan jika saya melihat-lihat tempat ini?
 
 767
 00:56:32,590 --> 00:56:34,863
-.ليس لديّ منزل
-.لقد حرصت على هذا
+Aku tidak punya rumah
+. Aku sudah memastikan itu.
 
 768
 00:56:34,955 --> 00:56:37,291
-هل تمانع لو أتيت إلى منزلك؟
+Apakah Anda keberatan jika saya datang ke rumah Anda?
 
 769
 00:56:37,424 --> 00:56:39,932
-.بدون إعلان أو دعوة
+Tidak ada iklan atau undangan.
 
 770
 00:56:42,166 --> 00:56:45,088
-.انظر، أنا أعرف من تكون
+Dengar, aku tahu siapa kamu.
 
 771
 00:56:46,096 --> 00:56:48,315
-.لا أريد القتال -
-.لا، لا تريد هذا -
+Aku tidak mau berkelahi.
+Tidak, kamu tidak menginginkan itu.
 
 772
 00:56:48,955 --> 00:56:50,619
-.إذن تنحى جانباً
+Jadi, minggirlah.
 
 773
 00:56:51,135 --> 00:56:54,565
-.لدينا نفس الحقوق التي تتمتع بها أنت وعائلتك
+Kami memiliki hak yang sama seperti Anda dan keluarga Anda.
 
 774
 00:56:54,643 --> 00:56:57,096
-.وكما قلت، نحن لسنا هنا من أجلك
+Seperti yang sudah saya katakan, kami tidak di sini untukmu.
 
 775
 00:56:58,374 --> 00:57:00,404
-نحن هنا لأجل فتاة تخلت عن هذه الحقوق
+Kami di sini untuk seorang gadis yang telah melepaskan hak-hak ini.
 
 776
 00:57:00,429 --> 00:57:03,382
-.عندما هاجمت فرقة من ضباط الشرطة
+Ketika sekelompok petugas polisi menyerang
 
 777
 00:57:04,311 --> 00:57:06,061
-.لديهم أسر أيضاً
+Mereka juga memiliki keluarga.
 
 778
 00:57:07,733 --> 00:57:09,616
-.أعتقد أنك لم تسمع عن ذلك
+Saya rasa Anda belum pernah mendengar tentang itu.
 
 779
 00:57:11,561 --> 00:57:14,186
-.لا تصلنا الأخبار هنا، أيها النقيب
+Kami tidak mendapatkan berita apa pun di sini, Kapten.
 
 780
 00:57:19,919 --> 00:57:21,162
-.أوقف هذا
+Hentikan ini
 
 781
 00:57:21,537 --> 00:57:23,334
-!قلت، أوقف هذا فوراً
+Saya berkata, "Hentikan ini segera!"
 
 782
 00:57:23,359 --> 00:57:24,639
-.ليس أنا
+Bukan aku
 
 783
 00:57:25,217 --> 00:57:26,452
-.إنها أنا
+Ini aku.
 
 784
 00:57:27,944 --> 00:57:29,045
-جين)؟)
+Jane))
 
 785
 00:57:32,216 --> 00:57:33,223
-!(جين)
+!(Jane)
 
 786
 00:57:35,600 --> 00:57:36,592
-!انبطحوا
+Berbaring!
 
 787
 00:58:19,283 --> 00:58:21,635
-!اصعدوا على متن المروحية وارحلوا
+Naiklah helikopter dan pergi!
 
 788
 00:58:21,869 --> 00:58:23,565
-!لا أستطيع السيطرة عليها
+Aku tidak bisa mengendalikannya!
 
 789
 00:58:24,846 --> 00:58:26,596
-!تراجعوا
-!تراجعوا
+Mundur!
+Mundur!
 
 790
 00:58:26,907 --> 00:58:28,243
-!تحركوا، تحركوا
+Bergerak, bergerak!
 
 791
 00:58:30,836 --> 00:58:32,360
-!لا بأس، تحركوا
-!هيا بنا
+Tidak apa-apa, ayo bergerak
+! Kita pergi!
 
 792
 00:58:33,953 --> 00:58:34,984
-!هيا بنا
+Ayo pergi!
 
 793
 00:58:54,281 --> 00:58:55,460
-!ارحلي
+Meninggalkan!
 
 794
 00:58:57,532 --> 00:58:58,656
-!غادري هذا المكان
+Tinggalkan tempat ini!
 
 795
 00:58:58,681 --> 00:58:59,765
-.أنا بحاجة لمساعدتك
+Saya butuh bantuan Anda.
 
 796
 00:58:59,790 --> 00:59:01,640
-.أعتقدت أنك تحمي المتحولين هنا
+Kukira kau sedang melindungi para mutan di sini.
 
 797
 00:59:01,665 --> 00:59:03,439
-.أنا أحميهم
+Aku melindungi mereka.
 
 798
 00:59:03,688 --> 00:59:04,766
-.منك
+Darimu
 
 799
 00:59:07,098 --> 00:59:08,536
-.يجب أن ترحلي
+Anda harus pergi.
 
 800
 00:59:09,567 --> 00:59:10,591
-!ارحلي
+Meninggalkan!
 
 801
 00:59:27,941 --> 00:59:30,292
-<font color="#ff8000">نأتيكم بخبر متأخر الليلة
-أن الكونغرس ينظر في أمر</font>
+<font color="#ff8000">Kami menyampaikan berita terbaru malam ini
+bahwa Kongres sedang mempertimbangkan masalah ini</font>
 
 802
 00:59:30,317 --> 00:59:32,558
-<font color="#ff8000">منشآت الإعتقال المؤقتة للمتحولين</font>
+Fasilitas penahanan sementara untuk kaum transgender
 
 803
 00:59:32,583 --> 00:59:34,441
-<font color="#ff8000">لأولئك الذين تعتبر قواهم</font>
+<font color="#ff8000">Bagi mereka yang kekuatannya dianggap</font>
 
 804
 00:59:34,466 --> 00:59:37,215
-<font color="#ff8000">.خطراً واضحاً وقائماً على المواطنين</font>
+Ancaman nyata dan langsung bagi warga sipil.
 
 805
 00:59:37,240 --> 00:59:40,357
-<font color="#ff8000">،(هذا، يأتي في أعقاب أحداث (جين جراي</font>
+Hal ini terjadi setelah peristiwa yang menimpa Jean Grey.
 
 806
 00:59:40,382 --> 00:59:42,562
-<font color="#ff8000">،والتي، بعد تدمير مجتمعين</font>
+<font color="#ff8000">, yang, setelah kehancuran dua masyarakat</font>
 
 807
 00:59:42,587 --> 00:59:45,322
-<font color="#ff8000">...ومهاجمة أفراد الشرطة والجيش</font>
+...dan menyerang anggota polisi dan tentara.
 
 808
 01:00:00,596 --> 01:00:02,916
-.أنا (تشارلز إكزافيير)، أريد التحدث إلى الرئيس
+Saya (Charles Xavier) ingin berbicara dengan Presiden.
 
 809
 01:00:03,838 --> 01:00:06,658
-.سيد (إكزافيير)، هذا الهاتف لم يعد يعمل
+Tuan Xavier, telepon ini sudah tidak berfungsi lagi.
 
 810
 01:00:08,190 --> 01:00:10,541
-...أنا
-.يجب أن أخبره ألا يفعل هذا
+Aku
+harus menyuruhnya untuk tidak melakukan ini.
 
 811
 01:00:10,955 --> 01:00:13,969
-.لا حاجة لرمي كل ما أنجزناه
+Tidak perlu membuang semua yang telah kita capai.
 
 812
 01:00:13,994 --> 01:00:15,556
-...يجب أن تعطينا فرصة
+...Anda harus memberi kami kesempatan
 
 813
 01:00:26,442 --> 01:00:28,505
-،إذا كسرتِ شيئاً ما .. أي شيء
+Jika kamu merusak sesuatu... apa pun itu
 
 814
 01:00:28,700 --> 01:00:29,825
-.بإمكاني إصلاحه
+Saya bisa memperbaikinya.
 
 815
 01:00:30,427 --> 01:00:31,567
-.لا يمكنك إصلاح أي شيء
+Anda tidak bisa memperbaiki apa pun.
 
 816
 01:00:34,822 --> 01:00:37,744
-<font color="#ff8000">.(بحث دولي جاري عن (غراي</font>
+(Penelitian internasional yang sedang berlangsung tentang Gray)
 
 817
 01:00:37,978 --> 01:00:40,658
-<font color="#ff8000">تحث السلطات المواطنين على
-...البقاء بعيداً</font>
+Pihak berwenang mendesak warga untuk
+menjauh.
 
 818
 01:00:40,683 --> 01:00:43,853
-<font color="#ff8000">.وعلى إبلاغ الشرطة بأي رؤية على الفور</font>
+<font color="#ff8000">.Dan segera laporkan setiap penampakan kepada polisi</font>
 
 819
 01:00:44,025 --> 01:00:45,297
-<font color="#ff8000">...مسؤولون حكوميون</font>
+pejabat pemerintah
 
 820
 01:00:45,322 --> 01:00:46,986
-<font color="#ff8000">...كان هذا الرجل منتخب</font>
+Pria ini terpilih
 
 821
 01:00:47,532 --> 01:00:48,954
-<font color="#ff8000">أهذا كل ما لديك؟</font>
+Hanya itu yang kamu punya?
 
 822
 01:00:51,587 --> 01:00:52,861
-.أعطني واحد آخر
+Berikan saya satu lagi.
 
 823
 01:01:15,281 --> 01:01:16,656
-.(مرحباً يا (جين
+Halo, Jane.
 
 824
 01:01:23,688 --> 01:01:26,719
-.لا يمكنك السيطرة على عقلي مثلهم
+Kamu tidak bisa mengendalikan pikiranku seperti yang mereka lakukan.
 
 825
 01:01:27,743 --> 01:01:29,313
-.أنا لست مثلهم
+Aku tidak seperti mereka.
 
 826
 01:01:30,282 --> 01:01:31,578
-.نفس الطلب رجاءً
+Permintaan yang sama, ya.
 
 827
 01:01:34,500 --> 01:01:35,922
-كيف وجدتني؟
+Bagaimana kamu menemukanku?
 
 828
 01:01:37,579 --> 01:01:40,040
-لنقل فحسب أن لديّ
-.أصدقاء في مراكز مرموقة
+Bisa dibilang saya punya teman-teman
+yang menduduki posisi bergengsi.
 
 829
 01:01:42,125 --> 01:01:43,250
-من تكونين؟
+Siapa kamu?
 
 830
 01:01:44,125 --> 01:01:45,821
-،السؤال الأفضل هو
+Pertanyaan terbaik adalah
 
 831
 01:01:46,563 --> 01:01:47,860
-من تكونين أنت؟
+Siapa kamu?
 
 832
 01:01:48,025 --> 01:01:51,596
-هل أنت فتاة صغيرة خائفة
-تعمل لدى رجل لا يغادر كرسيه؟
+Apakah kamu seorang gadis kecil yang penakut
+yang bekerja untuk seorang pria yang tidak pernah meninggalkan kursinya?
 
 833
 01:01:52,682 --> 01:01:55,284
-أم أنك أقوى مخلوق
-على هذا الكوكب؟
+Atau apakah kamu makhluk terkuat
+di planet ini?
 
 834
 01:01:59,266 --> 01:02:00,930
-.لا أعلم من أكون
+Aku tidak tahu siapa diriku.
 
 835
 01:02:01,211 --> 01:02:02,500
-.نعم، تعلمين
+Ya, kamu tahu
 
 836
 01:02:03,969 --> 01:02:06,250
-أنتِ الفتاة التي
-.يتخلى عنها الجميع
+Kaulah gadis
+yang selalu ditinggalkan oleh semua orang.
 
 837
 01:02:10,594 --> 01:02:12,734
-.ربما لديهم سبب وجيه لهذا
+Mungkin mereka punya alasan yang bagus untuk itu.
 
 838
 01:02:13,406 --> 01:02:15,226
-بسبب ما بداخلك؟
+Karena apa yang ada di dalam dirimu?
 
 839
 01:02:16,656 --> 01:02:19,547
-أنتِ خائفة منه لأنكِ تعقدين
-.أنه يجعل منكِ شخص سيء
+Kamu takut padanya karena kamu memiliki kompleks
+. Dia membuatmu menjadi orang yang buruk.
 
 840
 01:02:20,328 --> 01:02:21,531
-.شخص شرير
+Orang jahat
 
 841
 01:02:22,164 --> 01:02:25,391
-كل الكلمات الي تعلمتيها
-.لتبقين منضبطة
+Semua kata-kata yang kamu pelajari
+untuk tetap disiplin
 
 842
 01:02:26,321 --> 01:02:27,717
-.. كلمات تم ابتكارها
+Kata-kata yang diciptakan
 
 843
 01:02:27,742 --> 01:02:30,883
-منذ وقت طويل جدا من قٍبل رجال
-.ذوي عقول صغيرة للغاية
+Dahulu kala, oleh orang-orang dengan
+pikiran yang sangat sempit.
 
 844
 01:02:31,274 --> 01:02:34,305
-.لا يمكنهم فهم كينونتك
+Mereka tidak bisa memahami siapa dirimu.
 
 845
 01:02:34,719 --> 01:02:36,242
-.حتى (المتحولين) خاصتك
+Bahkan (mutan) Anda
 
 846
 01:02:37,063 --> 01:02:38,461
-ويمكنك أنتِ؟
+Dan kamu?
 
 847
 01:02:41,430 --> 01:02:42,453
-.(تشارلز)
+Charles
 
 848
 01:02:44,406 --> 01:02:46,438
-.(تشارلز)
-.(تشارلز)
+Charles
+.
 
 849
 01:02:46,828 --> 01:02:48,602
-.أنت، (هانك) ليس في الفصل
+Kamu, Hank, tidak ada di kelas.
 
 850
 01:02:48,649 --> 01:02:49,694
-ماذا؟
+Apa?
 
 851
 01:02:49,719 --> 01:02:51,055
-.هانك) ليس في الفصل)
+Hank tidak masuk kelas.
 
 852
 01:02:52,571 --> 01:02:54,063
-هل تفقدت مسكنه؟
+Apakah kamu sudah mengecek kediamannya?
 
 853
 01:02:54,180 --> 01:02:55,594
-.نعم، ليس هناك، أيضًا
+Ya, memang tidak ada.
 
 854
 01:03:11,686 --> 01:03:13,038
-أين بقيتهم؟
+Di mana sisanya?
 
 855
 01:03:13,780 --> 01:03:15,007
-.لا، أنا بمفردي
+Tidak, saya sendirian.
 
 856
 01:03:16,037 --> 01:03:17,757
-ماذا، (تشارلز) ليس موجوداً؟
+Apa, Charles tidak ada di sini?
 
 857
 01:03:21,975 --> 01:03:23,428
-،(إذا كنت تبحث عن (جين
+Jika Anda mencari (gen)
 
 858
 01:03:24,264 --> 01:03:25,327
-.فقد رحلت
+Dia sudah pergi.
 
 859
 01:03:25,374 --> 01:03:26,561
-.لا، أنا أعرف ذلك
+Tidak, saya tahu itu.
 
 860
 01:03:27,108 --> 01:03:28,616
-إذن، لماذا أنت هنا يا (هانك)؟
+Jadi, kenapa kau di sini, Hank?
 
 861
 01:03:29,467 --> 01:03:31,029
-لديك عيون وآذان حول العالم
+Anda memiliki mata dan telinga di seluruh dunia.
 
 862
 01:03:31,054 --> 01:03:32,983
-.لمساعدتك في العثور على "متحولين" لهذا المكان
+Untuk membantu Anda menemukan "mutan" untuk tempat ini
 
 863
 01:03:34,202 --> 01:03:36,014
-.(أريدك أن تساعدني في العثور على (جين
+Saya butuh bantuan Anda untuk menemukan Jane.
 
 864
 01:03:36,374 --> 01:03:38,030
-.لا يوجد سبب يدفعني للعثور عليها
+Tidak ada alasan bagiku untuk mencarinya.
 
 865
 01:03:38,373 --> 01:03:39,553
-.لا تفعل هذا لأجلي
+Jangan lakukan ini untukku.
 
 866
 01:03:40,373 --> 01:03:41,592
-.(بل إفعله من أجل (رايفين
+(Tapi lakukanlah demi Raven)
 
 867
 01:03:43,264 --> 01:03:44,405
-أهي من أرسلتك؟
+Apakah dia yang mengirimmu?
 
 868
 01:03:46,881 --> 01:03:48,052
-ألا تعرف؟
+Apakah kamu tidak tahu?
 
 869
 01:03:51,757 --> 01:03:53,147
-أعرف ماذا يا (هانك)؟
+Kau tahu apa, Hank?
 
 870
 01:03:54,632 --> 01:03:55,757
-.رايفين) ماتت)
+Raven meninggal.
 
 871
 01:03:57,967 --> 01:03:59,381
-.جين) قتلتها)
+Jane membunuhnya.
 
 872
 01:04:21,051 --> 01:04:23,582
-.(أريد منك أن تساعدني في العثور على (جين
+Saya butuh bantuan Anda untuk menemukan Jane.
 
 873
 01:04:29,270 --> 01:04:31,520
-.إذا وجدتها، سأقتلها
+Jika aku menemukannya, aku akan membunuhnya.
 
 874
 01:04:33,106 --> 01:04:34,301
-.أعلم هذا
+Aku tahu ini.
 
 875
 01:04:51,966 --> 01:04:53,544
-هل يعرفون من أكون؟
+Apakah mereka tahu siapa saya?
 
 876
 01:04:53,747 --> 01:04:54,818
-.نعم
+.Ya
 
 877
 01:04:56,552 --> 01:04:58,232
-وليسوا خائفين مني؟
+Dan mereka tidak takut padaku?
 
 878
 01:05:00,271 --> 01:05:02,833
-...الشخص الوحيد هنا الخائف من قوتك
+...satu-satunya orang di sini yang takut akan kekuatanmu
 
 879
 01:05:03,762 --> 01:05:04,942
-.هو أنتِ
+Itu kamu.
 
 880
 01:05:19,350 --> 01:05:26,010
-اذهبوا، اجمعوا الآخرين
-.إذا لم يكن بإمكانها السيطرة عليه، سندمره
+Pergilah, kumpulkan yang lain
+. Jika dia tidak bisa mengendalikannya, kita akan menghancurkannya.
 
 881
 01:05:31,547 --> 01:05:33,977
-أهذا ما أردتِ أن تريني إياه؟
+Apakah ini yang ingin kamu tunjukkan padaku?
 
 882
 01:05:34,437 --> 01:05:35,484
-.لا
+.TIDAK
 
 883
 01:05:36,508 --> 01:05:38,875
-.هذا ما أردت أن أريكِ إياه
+Inilah yang ingin saya tunjukkan kepada Anda.
 
 884
 01:05:56,813 --> 01:05:59,876
-.ما دخل إليكِ في الفضاء لم يكن توهجاً شمسياً
+Yang masuk ke tubuh Anda di luar angkasa bukanlah suar matahari.
 
 885
 01:06:00,540 --> 01:06:02,438
-.ولم يكن حادثاً
+Itu bukanlah sebuah kecelakaan.
 
 886
 01:06:02,977 --> 01:06:05,313
-.لقد كان مقدراً .. لكِ
+Ini memang sudah takdir... untukmu.
 
 887
 01:06:07,227 --> 01:06:08,321
-ماذا كان؟
+Apa itu tadi?
 
 888
 01:06:08,555 --> 01:06:11,922
-.قوة كونية نقية وقوية بصورة لا يمكن تصورها
+Sebuah kekuatan kosmik murni dan luar biasa dahsyat.
 
 889
 01:06:13,047 --> 01:06:15,227
-.رأيناها تدخل إليك في الفضاء
+Kami melihatnya memasuki tubuhmu di luar angkasa.
 
 890
 01:06:15,859 --> 01:06:17,383
-.(كنّا هناك يا (جين
+Kami ada di sana, Jane.
 
 891
 01:06:17,696 --> 01:06:19,516
-.نتبع تلك القوة
+Kita mengikuti kekuatan itu.
 
 892
 01:06:20,633 --> 01:06:21,680
-لماذا؟
+Mengapa?
 
 893
 01:06:21,907 --> 01:06:25,047
-لأنها الشرارة التي
-.منحت الكون الحياة
+Karena itulah percikan yang
+memberi kehidupan pada alam semesta.
 
 894
 01:06:25,719 --> 01:06:28,149
-.والشعلة التي استنزفت عالمي
+Dan api yang melahap duniaku
 
 895
 01:06:33,024 --> 01:06:34,422
-ما تبقى من قومي
+Apa yang tersisa dari bangsaku
 
 896
 01:06:34,454 --> 01:06:37,680
-يجوب النجوم بحثاً عن
-.تلك القوة للسيطرة عليها
+Dia menjelajahi bintang-bintang untuk mencari
+kekuatan untuk mengendalikan mereka.
 
 897
 01:06:37,774 --> 01:06:40,852
-.لكنها دمرت كل شيء حاول الإتصال بها
+Namun dia menghancurkan segalanya. Dia mencoba menghubunginya.
 
 898
 01:06:41,594 --> 01:06:43,032
-.حتى أتيتِ أنتِ
+Sampai kamu datang
 
 899
 01:06:44,962 --> 01:06:46,313
-لماذا أنا؟
+Mengapa saya?
 
 900
 01:06:47,407 --> 01:06:49,493
-.لأنكِ أقوى مما تعرفين
+Karena kamu lebih kuat dari yang kamu sadari.
 
 901
 01:06:51,165 --> 01:06:53,118
-.(لأنكِ مميزة يا (جين
+Karena kamu istimewa, Jane.
 
 902
 01:06:58,266 --> 01:06:59,563
-،بمساعدتي
+Dengan bantuan saya
 
 903
 01:07:00,008 --> 01:07:02,469
-.بإمكانك السيطرة على ما بداخلك
+Anda dapat mengendalikan apa yang ada di dalam diri Anda.
 
 904
 01:07:02,977 --> 01:07:07,071
-.تسخير هذه القوة لخلق عوالم جديدة كاملة
+Memanfaatkan kekuatan ini untuk menciptakan dunia yang sepenuhnya baru.
 
 905
 01:07:08,087 --> 01:07:10,219
-.تحويل الغبار إلى ماء
+Mengubah debu menjadi air
 
 906
 01:07:11,118 --> 01:07:12,946
-.وتحويل الماء إلى حياة
+Dan mengubah air menjadi kehidupan.
 
 907
 01:07:14,313 --> 01:07:16,282
-.(هذا هو قدرك يا (جين
+Inilah takdirmu, Jane.
 
 908
 01:07:16,310 --> 01:07:18,146
-.أن تصبحي كيان أعظم
+Untuk menjadi pribadi yang lebih hebat.
 
 909
 01:07:18,690 --> 01:07:20,081
-أن تتطوري
+Untuk mengembangkan
 
 910
 01:07:20,347 --> 01:07:23,018
-.إلى أعظم قوة في المجرة
+Kepada kekuatan terbesar di galaksi
 
 911
 01:07:37,600 --> 01:07:40,132
-.قلت لك أنهم لن يستطيعوا فهمك أبدًا
+Sudah kubilang mereka tidak akan pernah bisa memahamimu.
 
 912
 01:07:41,483 --> 01:07:43,709
-.وهم يخشون ما لا يفهمونه
+Mereka takut pada hal-hal yang tidak mereka pahami.
 
 913
 01:07:43,873 --> 01:07:45,162
-...وما يخشونه
+...dan apa yang mereka takuti
 
 914
 01:07:45,750 --> 01:07:47,475
-.يسعون إلى تدميره
+Mereka berusaha menghancurkannya.
 
 915
 01:07:53,037 --> 01:07:54,904
-هل عانت (رايفين)؟
+Apakah Raven menderita?
 
 916
 01:07:56,333 --> 01:07:57,450
-.ليس لوقت طويل
+Tidak akan lama.
 
 917
 01:08:01,224 --> 01:08:03,927
-...أعلم أنه كان
+Saya tahu bahwa dia adalah
 
 918
 01:08:05,293 --> 01:08:08,137
-..بيننا بعض الإختلافات في الماضي، لكن
+Kami pernah memiliki beberapa perbedaan pendapat di masa lalu, tetapi
 
 919
 01:08:08,246 --> 01:08:09,668
-.(كلانا أحب (رايفين
+Kami berdua menyukai Raven.
 
 920
 01:08:11,527 --> 01:08:12,543
-.نعم
+.Ya
 
 921
 01:08:15,808 --> 01:08:17,043
-.نعم، فعلنا
+Ya, kami melakukannya.
 
 922
 01:08:17,894 --> 01:08:19,457
-.لقد تمت رؤية الفتاة
+Gadis itu telah terlihat.
 
 923
 01:08:19,988 --> 01:08:21,004
-أين؟
+Di mana?
 
 924
 01:08:21,261 --> 01:08:22,423
-."نيويورك"
+"New York"
 
 925
 01:08:22,448 --> 01:08:24,502
-سنتمكن من الرؤية
-.عندما نصل إلى هناك
+Kita akan bisa melihatnya saat
+kita sampai di sana.
 
 926
 01:09:18,943 --> 01:09:20,240
-.حان الوقت
+Sudah waktunya.
 
 927
 01:09:26,951 --> 01:09:28,326
-.(نعرف مكان (جين
+Kita tahu di mana Gene berada.
 
 928
 01:09:28,615 --> 01:09:30,224
-.اعتقدت أنك قلت أنك لا تستطيع تتبعها
+Saya kira Anda bilang Anda tidak bisa melacaknya.
 
 929
 01:09:30,317 --> 01:09:31,693
-.لم يكن أنا من وجدها
+Bukan aku yang menemukannya.
 
 930
 01:09:32,138 --> 01:09:33,365
-.(كان (إيريك
+(Eric adalah)
 
 931
 01:09:33,794 --> 01:09:36,184
-.هانك) معه)
-.هم في طريقهم إليها
+Hank bersamanya
+. Mereka sedang dalam perjalanan menuju ke tempatnya.
 
 932
 01:09:36,209 --> 01:09:37,310
-.وسيقتلونها
+Mereka akan membunuhnya.
 
 933
 01:09:37,335 --> 01:09:38,951
-.وأي شخص سيعترض طريقهم
+Dan siapa pun yang menghalangi jalan mereka
 
 934
 01:09:39,710 --> 01:09:42,608
-(كيرت)، أود منك أن تأخذني أنا و(سكوت)
-.إلى هناك، لكن هذا كل شيء
+Kurt, aku ingin kau mengantarku dan Scott
+ke sana, tapi hanya itu saja.
 
 935
 01:09:42,710 --> 01:09:44,608
-.أريدك أن تتركنا هناك، ثم تعود إلى المنزل
+Aku ingin kau meninggalkan kami di sini, lalu pulanglah.
 
 936
 01:09:44,633 --> 01:09:45,952
-وأنا؟
+Dan aku?
 
 937
 01:09:46,054 --> 01:09:47,835
-أنا لا أتحدث إليكم الآن
-.(بصفتكم (المتحولون
+Aku tidak berbicara padamu sekarang
+(sebagai Transformers).
 
 938
 01:09:49,006 --> 01:09:50,982
-أنا و(سكوت) سنذهب لنقاتل
-(لأجل (جين
+Scott dan aku akan berjuang
+untuk Jane.
 
 939
 01:09:51,007 --> 01:09:52,804
-.بدونكم. نهاية النقاش
+Tanpa Anda, diskusi ini berakhir.
 
 940
 01:09:52,929 --> 01:09:56,827
-ستورم)، لقد فقدت الكثيرين)
-.ممن أحببتهم
+Storm, aku telah kehilangan begitu banyak orang
+yang kucintai.
 
 941
 01:09:57,608 --> 01:09:59,147
-.لن أطلب منكِ أن تذهبي
+Aku tidak akan memintamu untuk pergi
 
 942
 01:10:00,046 --> 01:10:01,186
-.نعم
+.Ya
 
 943
 01:10:02,835 --> 01:10:04,218
-.نحتاج إليك
+Kami membutuhkanmu.
 
 944
 01:10:05,311 --> 01:10:06,514
-.أنا أحتاج إليك
+Aku membutuhkanmu.
 
 945
 01:10:07,105 --> 01:10:08,199
-سأقوم بمساندتك
+Aku akan mendukungmu
 
 946
 01:10:08,224 --> 01:10:10,144
-.اسمعا -
-.نهاية النقاش -
+Dengarkan –
+Diskusi berakhir –
 
 947
 01:10:16,457 --> 01:10:18,949
-.كيرت)، اغمض عينيك)
+Kurt, pejamkan matamu.
 
 948
 01:10:19,270 --> 01:10:21,223
-.سأريك وجهتنا
+Aku akan menunjukkan tujuan kita kepadamu.
 
 949
 01:10:34,290 --> 01:10:35,602
-أين هم؟
+Di mana mereka?
 
 950
 01:10:52,508 --> 01:10:53,766
-.إنها هناك
+Dia ada di sana.
 
 951
 01:10:55,625 --> 01:10:56,961
-.مرحباً يا صديقي القديم
+Halo, teman lamaku
 
 952
 01:11:09,875 --> 01:11:11,915
-.(وفر هراء "صديقي القديم" لنفسك، يا (تشارلز
+(Simpan saja omong kosong "teman lama"mu itu untuk dirimu sendiri, Charles)
 
 953
 01:11:12,414 --> 01:11:14,032
-.وابتعد عن طريقي
+Minggir dari jalanku.
 
 954
 01:11:14,493 --> 01:11:15,875
-.أنا آسف على ما فعلته
+Aku minta maaf atas apa yang telah kulakukan.
 
 955
 01:11:17,040 --> 01:11:18,461
-.لكن لا يمكنني السماح لك بالذهاب إلى هناك
+Tapi aku tidak bisa membiarkanmu pergi ke sana.
 
 956
 01:11:18,486 --> 01:11:20,141
-.(أنت دائماً آسف يا (تشارلز
+(Kamu selalu menyesal, Charles)
 
 957
 01:11:20,180 --> 01:11:22,008
-.ودائماً ما يكون هناك خُطبة
+Selalu ada khotbah.
 
 958
 01:11:23,821 --> 01:11:25,141
-.لكن لم يعد أحد يهتم
+Tapi sekarang tidak ada yang peduli lagi.
 
 959
 01:11:26,500 --> 01:11:28,165
-،إذا فعلنا هذا هنا والآن
+Jika kita melakukan ini di sini dan sekarang
 
 960
 01:11:28,336 --> 01:11:30,250
-.سيروننا كوحوش
+Mereka akan menganggap kita sebagai monster.
 
 961
 01:11:30,477 --> 01:11:32,852
-مسوخ عنيفين يتقاتلون
-."في شوارع "نيويورك
+Monster-monster ganas bertarung
+di jalanan New York.
 
 962
 01:11:32,877 --> 01:11:34,031
-ماذا أخبرتك؟
+Apa yang sudah kukatakan padamu?
 
 963
 01:11:34,078 --> 01:11:36,141
-.اللعنة، يا رجل، ستقوم بتدمير ديارك
+Sialan, kau akan menghancurkan rumahmu sendiri.
 
 964
 01:11:36,469 --> 01:11:38,055
-.كل ما تبالي لأمره
+Segala hal yang Anda pedulikan
 
 965
 01:11:38,563 --> 01:11:39,866
-.وفر الحديث
+Percakapan itu berlangsung bebas.
 
 966
 01:11:39,891 --> 01:11:41,821
-.إذا لمستها، فسأقتلك
+Jika kau menyentuhnya, aku akan membunuhmu.
 
 967
 01:11:42,250 --> 01:11:44,368
-.(لا تفعل هذا يا (إيريك
+Jangan lakukan ini, Eric.
 
 968
 01:11:44,797 --> 01:11:47,500
-.(قتل (جين) لن يُعيد (رايفين
+Membunuh Jean tidak akan mengembalikan Raven.
 
 969
 01:11:49,415 --> 01:11:50,758
-.الفتاة ستموت
+Gadis itu akan mati.
 
 970
 01:12:28,475 --> 01:12:29,874
-!كيرت)، أحتاج إليك)
+Kurt, aku membutuhkanmu!
 
 971
 01:12:36,342 --> 01:12:37,694
-.كيرت)، قم بإدخالي)
+(Kurt), izinkan aku masuk)
 
 972
 01:12:40,061 --> 01:12:41,739
-أنت لست الوحيد الذي
-.يستطيع السيطرة على العقول
+Anda bukan satu-satunya yang
+bisa mengendalikan pikiran.
 
 973
 01:12:41,764 --> 01:12:42,772
-!(كيرت)
+Kurt!
 
 974
 01:13:37,819 --> 01:13:39,062
-.إنهم قادمون لقتلك
+Mereka datang untuk membunuhmu.
 
 975
 01:13:39,140 --> 01:13:40,538
-.لن تتركيهم يقتلونك
+Kamu tidak akan membiarkan mereka membunuhmu.
 
 976
 01:13:40,764 --> 01:13:42,194
-.ستقاومين
+Anda akan menolak
 
 977
 01:13:54,171 --> 01:13:55,757
-.اشعري بالقوة التي بداخلك
+Rasakan kekuatan yang ada di dalam dirimu.
 
 978
 01:13:56,226 --> 01:13:58,031
-.هذه القوة هي أنت
+Kekuatan ini ada dalam dirimu.
 
 979
 01:14:30,474 --> 01:14:31,568
-!أوقفوهم
+Hentikan mereka!
 
 980
 01:14:45,420 --> 01:14:47,756
-.أعرف لمن كان هذا الدم
+Aku tahu darah siapa ini.
 
 981
 01:14:52,951 --> 01:14:54,420
-.لقد قمت بطردي
+Anda memecat saya.
 
 982
 01:14:55,162 --> 01:14:57,404
-الآن، أتيت هنا لتقتلني؟
+Jadi, kau datang ke sini untuk membunuhku?
 
 983
 01:14:57,990 --> 01:14:59,130
-.هذا صحيح
+Ini benar
 
 984
 01:15:19,435 --> 01:15:21,084
-.ولم تتمكن من فعل هذا أيضاً
+Dia pun tidak mampu melakukan hal itu.
 
 985
 01:15:25,451 --> 01:15:27,677
-.دعني أرك كيف تفعلها
+Izinkan saya menunjukkan caranya.
 
 986
 01:16:06,502 --> 01:16:07,791
-.سكوت)، القليل من المساعدة)
+Scott, sedikit bantuan akan sangat dihargai.
 
 987
 01:16:12,510 --> 01:16:13,510
-!(كيرت)
+Kurt!
 
 988
 01:16:14,033 --> 01:16:15,994
-!(كيرت)
-أأنت بخير؟
+Kurt,
+kamu baik-baik saja?
 
 989
 01:16:16,019 --> 01:16:17,041
-!لا
+!TIDAK
 
 990
 01:16:17,244 --> 01:16:18,174
-!تعال هنا
+Kemarilah!
 
 991
 01:16:18,229 --> 01:16:20,244
-.أدخلني هذا المنزل الآن
+Izinkan saya masuk ke rumah ini sekarang.
 
 992
 01:16:23,963 --> 01:16:25,641
-هل أتيت لقتلي أيضاً؟
+Apakah kau datang untuk membunuhku juga?
 
 993
 01:16:25,666 --> 01:16:26,674
-.لم أكن لأفعل أبداً
+Aku tidak akan pernah melakukan itu.
 
 994
 01:16:27,111 --> 01:16:28,252
-.جين)، لم أكن لأفعل أبداً)
+Jane, aku tidak akan pernah melakukannya.
 
 995
 01:16:29,127 --> 01:16:31,447
-...لقد خذلتك، وأنا أعلم ذلك، ولكن
+Aku telah mengecewakanmu, aku tahu itu, tapi
 
 996
 01:16:31,901 --> 01:16:33,526
-.هذا ليس أنتِ
+Ini bukan dirimu.
 
 997
 01:16:38,267 --> 01:16:39,298
-!جين) من فضلك)
+(Jane, tolong!)
 
 998
 01:16:39,383 --> 01:16:41,805
-.ليس لديك أدنى فكرة عمن أكون
+Kamu tidak tahu siapa aku sebenarnya.
 
 999
 01:16:41,971 --> 01:16:45,205
-،لقد ربيتك منذ أن كنتِ طفلة صغيرة
-.أعتقد أنني أعرف من تكونين
+Aku telah membesarkanmu sejak kau masih kecil
+. Kurasa aku tahu siapa dirimu.
 
 1000
 01:16:46,955 --> 01:16:49,830
-.لم تعد فتاتك الصغيرة بعد الآن
+Putri kecilmu sudah tidak ada lagi di sini.
 
 1001
 01:16:54,189 --> 01:16:55,432
-ماذا تكونين؟
+Apa yang kamu?
 
 1002
 01:16:58,518 --> 01:17:01,268
-جين)، رجاءً، حاولي)
-.أن تتذكري ما أخبرتك به
+Jane, tolong coba
+ingat apa yang sudah kukatakan padamu.
 
 1003
 01:17:01,416 --> 01:17:02,791
-.بإمكانك السيطرة عليه
+Anda bisa mengendalikannya.
 
 1004
 01:17:02,963 --> 01:17:05,557
-.بإمكانك فعل أي شيء تريدينه في عقلك
+Kamu bisa melakukan apa pun yang kamu inginkan dalam pikiranmu.
 
 1005
 01:17:05,799 --> 01:17:07,268
-.أرني إذن
+Tunjukkan padaku kalau begitu
 
 1006
 01:17:09,729 --> 01:17:11,432
-.سِر إليّ
+Datanglah kepadaku.
 
 1007
 01:17:14,768 --> 01:17:16,041
-.تعلمين أنني لا يمكنني فعل هذا
+Kau tahu aku tidak bisa melakukan ini.
 
 1008
 01:17:20,776 --> 01:17:21,768
-...لا
+...TIDAK
 
 1009
 01:17:31,187 --> 01:17:32,413
-.(رجاءً يا (جين
+Tolong, Jane
 
 1010
 01:17:41,507 --> 01:17:42,530
-!رجاءً
+!Tolong
 
 1011
 01:17:57,366 --> 01:18:00,546
-.لم يعد بإمكاني رؤية عقلك مطلقاً
+Aku sudah tidak bisa lagi memahami pikiranmu sama sekali.
 
 1012
 01:18:02,702 --> 01:18:04,702
-هل ترين عقلي؟
+Bisakah kamu melihat pikiranku?
 
 1013
 01:18:07,022 --> 01:18:08,179
-.أنظري
+Lihat
 
 1014
 01:18:09,819 --> 01:18:11,179
-.(أنظري يا (جين
+Lihat, Jane
 
 1015
 01:18:14,616 --> 01:18:16,693
-،وما ستختاري أن تفعليه بهبتك
+Dan apa yang akan Anda pilih untuk lakukan dengan karunia Anda.
 
 1016
 01:18:16,718 --> 01:18:19,108
-.حسناً، إنه عائد إليكِ كلياً
+Nah, itu sepenuhnya terserah Anda.
 
 1017
 01:18:20,694 --> 01:18:22,256
-.هذا يمكن أن يكون منزلك الجديد
+Ini bisa menjadi rumah barumu.
 
 1018
 01:18:23,381 --> 01:18:24,929
-.يمكن أن نكون عائلتك الجديدة
+Kami bisa menjadi keluarga barumu.
 
 1019
 01:18:26,928 --> 01:18:27,935
-!لا
+!TIDAK
 
 1020
 01:18:29,733 --> 01:18:32,632
-.لأنكِ لستِ مكسورة
+Karena kamu tidak rusak
 
 1021
 01:18:41,397 --> 01:18:42,663
-هل ستأخذها؟
+Apakah kamu akan menerimanya?
 
 1022
 01:18:43,632 --> 01:18:44,647
-.نعم
+.Ya
 
 1023
 01:18:50,585 --> 01:18:53,514
-يمكنني مساعدتها بطرق لا يمكنك
-.مساعدتها بها
+Aku bisa membantunya dengan cara yang tidak bisa kamu lakukan
+.
 
 1024
 01:18:53,929 --> 01:18:55,733
-.لا يمكن مساعدتها
+Dia tidak bisa ditolong.
 
 1025
 01:18:56,435 --> 01:18:57,904
-.إنها ميئوس منها
+Ini sia-sia.
 
 1026
 01:19:01,905 --> 01:19:03,374
-.لا، هي ليست كذلك
+Tidak, bukan seperti itu.
 
 1027
 01:19:03,593 --> 01:19:05,850
-،طالما هناك شخص مؤمن بها يهتم لأمرها
+Selama masih ada seseorang yang mempercayainya dan peduli padanya
 
 1028
 01:19:05,875 --> 01:19:07,108
-.إذن لا يزال هناك أمل
+Jadi masih ada harapan.
 
 1029
 01:19:13,647 --> 01:19:15,413
-.لا يزال هناك أمل
+Masih ada harapan.
 
 1030
 01:19:30,343 --> 01:19:31,350
-...كنت أعرف
+Aku tahu
 
 1031
 01:19:31,429 --> 01:19:33,311
-.كنت أعرف أنك لا تزالين هناك
+Aku tahu kau masih di sana.
 
 1032
 01:19:35,639 --> 01:19:37,616
-.لقد أظهر لكِ ماضيك فحسب
+Aku hanya menunjukkan masa lalumu padamu.
 
 1033
 01:19:41,202 --> 01:19:42,413
-اتبعيني
+Ikuti saya
 
 1034
 01:19:43,218 --> 01:19:44,710
-.إلى مستقبلك
+Untuk masa depanmu
 
 1035
 01:19:47,030 --> 01:19:48,132
-.لا
+.TIDAK
 
 1036
 01:19:54,553 --> 01:19:56,334
-.جهزوا الأسلحة للتدخل
+Siapkan senjata untuk intervensi.
 
 1037
 01:19:56,889 --> 01:19:58,436
-.لم أطلب هذا مطلقاً
+Aku tidak pernah meminta ini.
 
 1038
 01:19:58,749 --> 01:20:00,116
-.أياً من هذا
+Yang mana di antara ini?
 
 1039
 01:20:01,554 --> 01:20:04,944
-هل سافرت عبر المجرات
-لأجل هبة لا تُريدينها؟
+Apakah kamu melakukan perjalanan melintasi galaksi
+untuk hadiah yang tidak kamu inginkan?
 
 1040
 01:20:07,960 --> 01:20:09,249
-.فلتأخذيها إذن
+Kalau begitu, ambillah.
 
 1041
 01:20:11,991 --> 01:20:13,093
-.رجاءً
+.Tolong
 
 1042
 01:20:13,569 --> 01:20:14,600
-.قومي بتحريري
+Bebaskan aku
 
 1043
 01:20:17,936 --> 01:20:19,100
-.سأحاول
+Saya akan mencoba.
 
 1044
 01:21:06,591 --> 01:21:08,107
-.توقفي، ستقتلينها
+Berhenti, kau akan membunuhnya.
 
 1045
 01:21:09,474 --> 01:21:11,747
-.حيواتكم لا تعني لي شيء
+Hidup kalian tak berarti apa-apa bagiku.
 
 1046
 01:21:12,294 --> 01:21:15,825
-.عالمكم سيكون عالمنا
+Duniamu akan menjadi dunia kami.
 
 1047
 01:21:16,309 --> 01:21:17,739
-.ستقتلينا جميعاً
+Kau akan membunuh kita semua.
 
 1048
 01:21:18,302 --> 01:21:20,294
-.نعم
+.Ya
 
 1049
 01:21:20,950 --> 01:21:22,349
-.جين)، ابتعدي عنها)
+Jane, jauhi dia.
 
 1050
 01:21:25,435 --> 01:21:26,708
-!جين)، اتركيها)
+(Jane!) Biarkan dia sendiri!
 
 1051
 01:21:27,879 --> 01:21:29,521
-!اتركيها يا (جين)، اتركيها
+Biarkan dia sendiri, Jane, biarkan dia sendiri!
 
 1052
 01:21:32,692 --> 01:21:33,778
-!اتركيها
+Biarkan dia sendiri!
 
 1053
 01:21:40,371 --> 01:21:42,199
-!هناك واحد
-!اقبضوا عليه
+Ada satu!
+Tangkap dia!
 
 1054
 01:21:45,519 --> 01:21:46,628
-!(جين)
+!(Jane)
 
 1055
 01:21:54,261 --> 01:21:55,261
-!(جين)
+!(Jane)
 
 1056
 01:21:56,144 --> 01:21:57,144
-جين)؟)
+Jane))
 
 1057
 01:21:57,667 --> 01:21:59,042
-جين)، (جين)؟)
+Gen), (Gen)?
 
 1058
 01:21:59,067 --> 01:22:01,402
-تشارلز)، ما الخطب؟) -
-.لا ادري. لا أستطيع قراءة عقلها -
+Charles, ada apa?
+Aku tidak tahu. Aku tidak bisa membaca pikirannya.
 
 1059
 01:22:05,768 --> 01:22:08,510
-!هيا، أخرجوه
-!أخرجوه
+Ayo, keluarkan dia
+! Keluarkan dia!
 
 1060
 01:22:08,535 --> 01:22:09,606
-.هيا. هيا
+Ayo ayo.
 
 1061
 01:22:11,815 --> 01:22:13,362
-!تحركوا، تحركوا
+Bergerak, bergerak!
 
 1062
 01:22:24,486 --> 01:22:25,532
-.لا زالت على قيد الحياة
+Dia masih hidup
 
 1063
 01:22:25,557 --> 01:22:27,096
-.سكوت)، عليك أن تخرجها من هنا)
+Scott, kau harus membawanya keluar dari sini.
 
 1064
 01:22:34,097 --> 01:22:35,175
-!المكان خالي
+Tempat ini kosong!
 
 1065
 01:22:57,452 --> 01:22:58,616
-.الأخير
+Yang terakhir
 
 1066
 01:23:00,616 --> 01:23:03,311
-.حسناً، المكان خالي
-.عودوا، لنذهب
+Oke, tempat ini kosong
+. Ayo kembali, kita pergi.
 
 1067
 01:23:20,274 --> 01:23:21,797
-.طفلي كان من المعجبين بكم
+Anak saya adalah penggemar Anda.
 
 1068
 01:23:31,465 --> 01:23:33,136
-.رايفين) كانت محقة)
+Raven benar.
 
 1069
 01:23:34,012 --> 01:23:36,731
-.جين) لم تكن شريرة أبداً)
+Jane tidak pernah jahat.
 
 1070
 01:23:39,810 --> 01:23:40,950
-.بل أنا كنت كذلك
+Tapi memang benar begitu.
 
 1071
 01:23:44,935 --> 01:23:46,638
-.لم يكن ينبغي أن أكذب عليها
+Seharusnya aku tidak berbohong padanya.
 
 1072
 01:23:49,004 --> 01:23:50,310
-.لقد كنت مخطئاً
+Aku salah.
 
 1073
 01:23:53,052 --> 01:23:55,833
-لكن... هذه القوة
+Tapi... kekuatan ini
 
 1074
 01:23:56,966 --> 01:23:59,278
-.التي بداخلها، لم أضعها بداخلها
+Aku tidak memasukkannya ke dalam.
 
 1075
 01:23:59,606 --> 01:24:02,512
-.لن أفعل أي شيء مطلقًا لإيذائها
+Aku tidak akan pernah melakukan apa pun untuk menyakitinya.
 
 1076
 01:24:02,638 --> 01:24:04,584
-...هذا ليس أنا، وهذه
+...Ini bukan aku, dan ini
 
 1077
 01:24:04,685 --> 01:24:06,451
-.(ليست (جين
+(Bukan Gene)
 
 1078
 01:24:07,615 --> 01:24:09,505
-.لا يزال بوسعنا إنقاذها
+Kita masih bisa menyelamatkannya.
 
 1079
 01:24:09,998 --> 01:24:12,326
-.لا تزال (جين) بداخلها
+Jane masih berada di dalam dirinya.
 
 1080
 01:24:21,623 --> 01:24:23,591
-.نحن على بعد 10 أميال من مركز احتواء المتحولين
+Kami berjarak 10 mil dari Pusat Penahanan Transgender.
 
 1081
 01:24:23,616 --> 01:24:25,623
-.استعدوا لنقل السجناء
+Bersiaplah untuk pemindahan tahanan.
 
 1082
 01:24:35,505 --> 01:24:38,091
-ما الذي يسيطر عليها بالضبط؟
+Apa sebenarnya yang mengendalikannya?
 
 1083
 01:24:38,519 --> 01:24:39,528
-.لا اعرف
+.Aku tidak tahu
 
 1084
 01:24:39,560 --> 01:24:43,396
-لكن هذه المرأة، هذا... الكيان
+Namun wanita ini, entitas ini...
 
 1085
 01:24:43,568 --> 01:24:45,981
-لقد تذوقت القليل من
-.تلك القوة وستعود من أجل المزيد
+Aku sudah merasakan sedikit
+kekuatan itu dan aku akan kembali untuk merasakannya lebih banyak lagi.
 
 1086
 01:24:46,006 --> 01:24:47,646
-.(ستعود من أجل (جين
+(Dia akan kembali untuk Jane)
 
 1087
 01:24:47,839 --> 01:24:50,176
-.جيد. دعها تأتي
+Bagus. Biarkan dia datang.
 
 1088
 01:24:50,369 --> 01:24:51,917
-.ستقتلها للحصول عليها
+Kau akan membunuhnya untuk mendapatkannya.
 
 1089
 01:24:51,959 --> 01:24:55,669
-.وأعدك، أن القتل لن يتوقف عند هذا الحد
+Dan saya berjanji kepada Anda, pembunuhan tidak akan berhenti di sini.
 
 1090
 01:24:55,941 --> 01:24:57,738
-..(هذا ليس ما أرادته (رايفين
+Ini bukan yang diinginkan Raven.
 
 1091
 01:24:58,246 --> 01:24:59,762
-.وأنت تعلم هذا
+Dan kamu tahu itu.
 
 1092
 01:25:00,598 --> 01:25:01,785
-.كلاكما يعلم هذا
+Kalian berdua tahu ini.
 
 1093
 01:25:21,247 --> 01:25:22,864
-كوبر)، أترى هذا؟)
+Cooper, apakah kau melihat ini?
 
 1094
 01:25:24,747 --> 01:25:27,379
-ألفا وان"، هناك الكثير من الأعداء"
-.على متن القطار
+"Alpha One," ada banyak musuh
+di dalam kereta.
 
 1095
 01:25:27,412 --> 01:25:28,958
-.إنهم يتجهون إلى مؤخرة القطار
+Mereka menuju ke bagian belakang kereta.
 
 1096
 01:25:28,983 --> 01:25:31,192
-.افتح باب العربة الرابعة المؤدي للخامسة -
-.عُلم -
+Bukalah pintu gerbong keempat yang menuju ke gerbong kelima.
+Mengerti.
 
 1097
 01:25:31,250 --> 01:25:32,649
-.حسنًا، أنتما اثنان، تعاليا معي
+Oke, kalian berdua, ikut aku.
 
 1098
 01:25:32,704 --> 01:25:34,868
-،بقيتكم، إبقوا هنا
-.احرسوا السجناء
+Kalian yang lain, tetap di sini
+. Jaga para tahanan.
 
 1099
 01:25:34,893 --> 01:25:37,094
-!لا تكونوا حقمى
-.تحتاجون لمساعدتنا
+Jangan keras kepala!
+Kamu butuh bantuan kami!
 
 1100
 01:25:37,313 --> 01:25:38,937
-!أغلق الباب، الآن
+Tutup pintunya sekarang!
 
 1101
 01:25:40,853 --> 01:25:42,423
-المتحولين الملاعين
-.قادمين لمباغتتنا
+Para pengubah wujud terkutuk itu akan
+datang untuk mengejutkan kita.
 
 1102
 01:25:42,478 --> 01:25:43,931
-.انهم ليسوا متحولين
+Mereka bukan transgender.
 
 1103
 01:25:44,243 --> 01:25:45,899
-.حررنا
-.ستحتاج لمساعدتنا
+Kami telah membebaskanmu
+. Kau akan membutuhkan bantuan kami.
 
 1104
 01:25:45,940 --> 01:25:47,573
-.نحن فرصتك الوحيدة
+Kami adalah satu-satunya kesempatanmu.
 
 1105
 01:25:47,729 --> 01:25:49,010
-.ابق فمك مغلقاً
+Tutup mulutmu.
 
 1106
 01:26:18,292 --> 01:26:19,590
-إستغاثة إستغاثة
+SOS! SOS!
 
 1107
 01:26:31,254 --> 01:26:32,652
-ما هي حالة هؤلاء المتحولين؟
+Bagaimana status orang-orang transgender ini?
 
 1108
 01:26:33,191 --> 01:26:35,324
-.نحن نتراجع الآن
-...إنهم ليسوا
+Kita sedang mundur sekarang
+...mereka tidak.
 
 1109
 01:26:36,238 --> 01:26:37,988
-ماذا؟ -
-...إنهم -
+Apa? -
+...mereka -
 
 1110
 01:26:38,754 --> 01:26:41,183
-ليسوا ماذا؟ -
-...ليسوا متحو -
+Apa yang bukan mereka? -
+...mereka bukanlah sesuatu yang sementara -
 
 1111
 01:26:41,597 --> 01:26:43,121
-.(إنهم هنا لأجل (جين
+Mereka datang ke sini untuk Jane.
 
 1112
 01:26:44,769 --> 01:26:46,308
-.استعدوا لإطلاق النار
+Bersiaplah untuk ditembak
 
 1113
 01:26:46,426 --> 01:26:48,183
-.إبنك كان محق بشأننا
+Putramu benar tentang kita.
 
 1114
 01:26:48,246 --> 01:26:49,636
-!بإمكاننا مساعدتكم
+Kami bisa membantu Anda!
 
 1115
 01:26:59,737 --> 01:27:00,783
-!رجاءً
+!Tolong
 
 1116
 01:27:16,426 --> 01:27:17,574
-!يوجد المزيد
+Masih ada lagi!
 
 1117
 01:27:44,999 --> 01:27:46,416
-.نحن نريد الفتاة فحسب
+Kami hanya menginginkan gadis itu.
 
 1118
 01:27:46,525 --> 01:27:47,673
-.تنحوا جانباً
+Menyingkir
 
 1119
 01:27:47,916 --> 01:27:48,978
-!لا
+!TIDAK
 
 1120
 01:27:49,851 --> 01:27:51,179
-ماذا تفعل؟
+Apa pekerjaanmu?
 
 1121
 01:27:52,062 --> 01:27:53,382
-.(ما كانت ستفعله (رايفين
+(Apa yang akan dilakukan Raven)
 
 1122
 01:28:13,581 --> 01:28:14,941
-!(سكوت)، خذني إلى (جين)
+Scott, bawa aku ke Jane!
 
 1123
 01:28:54,695 --> 01:28:55,914
-!(سيلين)
+Celine!
 
 1124
 01:28:59,172 --> 01:29:00,281
-!(هانك)
+!(Gulungan)
 
 1125
 01:29:01,812 --> 01:29:03,140
-!(ساعد (ستورم
+(Bantu Storm!)
 
 1126
 01:29:30,500 --> 01:29:31,546
-.لا، لا، لا
+Tidak tidak tidak
 
 1127
 01:29:31,615 --> 01:29:33,632
-.لا، لا، لا، لا
-.لا، من فضلك
+Tidak, tidak, tidak, tidak
+. Tidak, tolong.
 
 1128
 01:29:33,890 --> 01:29:35,172
-!لا تمت
+Jangan mati!
 
 1129
 01:30:32,385 --> 01:30:33,775
-.سكوت)، احرس المدخل)
+(Diam), jaga pintu masuk.
 
 1130
 01:30:34,799 --> 01:30:35,931
-!جين)، استيقظي)
+Jane, bangun!
 
 1131
 01:30:36,009 --> 01:30:37,697
-،جين) استيقظي)
-.يجب أن تستيقظي
+Jane, bangunlah
+. Kamu harus bangun.
 
 1132
 01:31:53,944 --> 01:31:55,170
-!(هانك)
+!(Gulungan)
 
 1133
 01:32:52,064 --> 01:32:53,915
-.لا أرغب في قتالك
+Aku tidak mau berkelahi denganmu.
 
 1134
 01:32:54,939 --> 01:32:56,400
-.يُقال هذا لي كثيراً
+Hal ini sering dikatakan kepada saya.
 
 1135
 01:32:57,197 --> 01:32:58,775
-.أردت موتها
+Aku ingin dia mati
 
 1136
 01:33:00,650 --> 01:33:02,455
-.لقد تغير ما بقلبي
+Hatiku telah berubah.
 
 1137
 01:33:26,991 --> 01:33:29,030
-.كنت أحاول حمايتك
+Aku berusaha melindungimu.
 
 1138
 01:33:29,225 --> 01:33:31,467
-.كنت أحاول أن أبعد عنكِ الألم
+Aku berusaha menjauhkan rasa sakit itu darimu.
 
 1139
 01:33:32,396 --> 01:33:33,302
-...لكن
+...Tetapi
 
 1140
 01:33:33,327 --> 01:33:34,678
-.لقد دفنته للتو
+Aku baru saja menguburnya.
 
 1141
 01:33:37,139 --> 01:33:38,108
-.(جين)
+(Jane)
 
 1142
 01:33:41,396 --> 01:33:42,561
-أين...؟
+Di mana...?
 
 1143
 01:33:44,639 --> 01:33:46,397
-هل نحن داخل عقلي؟
+Apakah kita berada di dalam pikiranku?
 
 1144
 01:33:48,170 --> 01:33:49,772
-.إنه أكثر سلامة من عقلي
+Ini lebih aman daripada pikiranku.
 
 1145
 01:33:54,076 --> 01:33:55,810
-.أنا آسف حقاً على ما فعلته لك
+Aku benar-benar minta maaf atas apa yang telah kulakukan padamu.
 
 1146
 01:33:57,513 --> 01:33:58,513
-.أعلم هذا
+Aku tahu ini.
 
 1147
 01:33:58,538 --> 01:34:01,633
-كل ما أردته هو حمايتك
+Yang kuinginkan hanyalah melindungimu.
 
 1148
 01:34:01,658 --> 01:34:03,086
-.وإعطائك ما تستحقينه
+Dan memberikanmu apa yang pantas kamu dapatkan.
 
 1149
 01:34:03,471 --> 01:34:05,721
-.ما يستحقه كل طفل
+Apa yang pantas didapatkan setiap anak
 
 1150
 01:34:22,611 --> 01:34:23,978
-.عائلة
+.keluarga
 
 1151
 01:34:25,384 --> 01:34:26,471
-.نعم
+.Ya
 
 1152
 01:34:29,877 --> 01:34:32,260
-أعلم أنك فعلت ما
-.فعلته بدافع الحب
+Aku tahu kau melakukan itu
+karena cinta.
 
 1153
 01:34:32,725 --> 01:34:33,967
-.أنا أسامحك
+Aku memaafkanmu.
 
 1154
 01:34:54,757 --> 01:34:56,437
-.أعرف ما يجب أن فعله الآن
+Sekarang aku tahu apa yang perlu kulakukan.
 
 1155
 01:34:57,648 --> 01:34:58,859
-وما هو؟
+Apa itu?
 
 1156
 01:34:59,257 --> 01:35:00,898
-.حماية عائلتي
+Melindungi keluargaku
 
 1157
 01:35:04,580 --> 01:35:05,612
-.جين)، انتظري)
+Jane, tunggu.
 
 1158
 01:38:29,487 --> 01:38:30,964
-أتريدين هذه القوة؟
+Apakah kamu menginginkan kekuatan ini?
 
 1159
 01:38:32,190 --> 01:38:33,597
-.ستحصلين عليها
+Kamu akan mendapatkannya
 
 1160
 01:38:47,709 --> 01:38:48,806
-!(جين)
+!(Jane)
 
 1161
 01:38:57,069 --> 01:39:00,108
-.لا يمكنك السيطرة عليها
+Anda tidak bisa mengendalikannya.
 
 1162
 01:39:00,647 --> 01:39:02,929
-.إذا قتلتيني
+Jika kau membunuhku
 
 1163
 01:39:03,132 --> 01:39:06,171
-.ستقتليهم أجمعين
+Kamu akan membunuh mereka semua.
 
 1164
 01:39:23,266 --> 01:39:25,977
-.عواطفك تجعلك ضعيفة
+Emosi Anda membuat Anda lemah.
 
 1165
 01:39:33,663 --> 01:39:34,803
-!(جين)
+!(Jane)
 
 1166
 01:39:36,045 --> 01:39:37,108
-.لا
+.TIDAK
 
 1167
 01:39:40,014 --> 01:39:41,357
-!(جين)
+!(Jane)
 
 1168
 01:39:51,858 --> 01:39:53,194
-.أنتِ مخطئة
+Anda salah.
 
 1169
 01:39:54,592 --> 01:39:56,740
-.عواطفي تجعلني قوية
+Emosi saya membuat saya kuat.
 
 1170
 01:40:47,991 --> 01:40:49,311
-.لقد رحلت
+Dia pergi.
 
 1171
 01:41:00,442 --> 01:41:01,450
-.. لقد
+Ini memiliki
 
 1172
 01:41:04,388 --> 01:41:05,850
-.لقد تحررت
+Aku bebas.
 
 1173
 01:41:47,780 --> 01:41:55,810
-{\fad(300,0)\fnArabic Typesetting\fs45\1c&HC5C5C5&\3c&H000000&\blur7}(مدرسة (جين غراي
-.للشباب الموهوبين
+{\fad(300,0)\fnPenataan Huruf Arab\fs45\1c&HC5C5C5&\3c&H000000&\blur7}(Sekolah Jane Gray
+untuk Anak Berbakat)
 
 1174
 01:41:49,436 --> 01:41:51,381
-.أعرف من أكون الآن
+Sekarang aku tahu siapa diriku.
 
 1175
 01:41:52,217 --> 01:41:55,452
-أنا لست ببساطة كما يريدني
-.الآخرين أن أكون
+Aku bukanlah sekadar apa yang orang lain inginkan
+dari diriku.
 
 1176
 01:41:56,143 --> 01:41:59,776
-.مصيري ليس محتوماً ولا يمكن السيطرة عليه
+Nasibku tidak ditentukan sebelumnya dan tidak dapat dikendalikan.
 
 1177
 01:42:00,581 --> 01:42:03,316
-.لقد تطورت إلى ما بعد هذا العالم
+Ia telah berevolusi melampaui dunia ini.
 
 1178
 01:42:04,261 --> 01:42:06,253
-.هذه ليست نهايتي
+Ini bukanlah akhir bagiku.
 
 1179
 01:42:06,917 --> 01:42:08,253
-.أو نهاية المتحولين
+Atau akhir dari para pengubah wujud.
 
 1180
 01:42:10,847 --> 01:42:12,472
-.إنها بداية جديدة
+Ini adalah awal yang baru.
 
 1181
 01:42:16,144 --> 01:42:17,698
-!مهلاً
-.على رسلكم
+Tunggu dulu! Tenang
+saja !
 
 1182
 01:42:17,762 --> 01:42:18,880
-.السلامة أولاً
+Keselamatan adalah prioritas utama.
 
 1183
 01:42:57,319 --> 01:42:58,530
-أهذا كل شيء يا سيدي؟
+Hanya itu saja, Pak?
 
 1184
 01:42:58,607 --> 01:43:00,029
-.نعم، شكراً لكِ
+Ya, terima kasih.
 
 1185
 01:43:22,657 --> 01:43:24,689
-كيف يعاملك الوقت؟
+Bagaimana waktu memperlakukanmu?
 
 1186
 01:43:25,799 --> 01:43:27,213
-ماذا تفعل هنا يا (إيريك)؟
+Apa yang kamu lakukan di sini, Eric?
 
 1187
 01:43:27,892 --> 01:43:29,431
-.أتيت لرؤية صديق قديم
+Saya datang untuk menemui seorang teman lama.
 
 1188
 01:43:31,783 --> 01:43:33,111
-أترغب في لعب مباراة؟
+Apakah Anda ingin bermain pertandingan?
 
 1189
 01:43:35,635 --> 01:43:37,127
-.ليس اليوم، شكراً لك
+Tidak hari ini, terima kasih.
 
 1190
 01:43:41,244 --> 01:43:44,720
-.منذ زمن طويل، أنقذت حياتي
+Dahulu kala, dia menyelamatkan hidupku.
 
 1191
 01:43:46,892 --> 01:43:48,619
-.وعرضت عليّ دياراً
+Dan dia menawarkan rumah kepadaku
 
 1192
 01:43:50,330 --> 01:43:52,079
-.أود أن أفعل نفس الشيء لك
+Saya ingin melakukan hal yang sama untuk Anda.
 
 1193
 01:44:08,461 --> 01:44:10,055
-.مباراة واحدة فحسب
+Hanya satu pertandingan
 
 1194
 01:44:11,142 --> 01:44:12,580
-.كرمى للأيّام الخوالي
+Demi masa lalu
 
 1195
 01:44:25,806 --> 01:44:27,228
-.سأترفق بك
+Aku akan bersikap lembut padamu.
 
 1196
 01:44:28,775 --> 01:44:30,182
-.لا، لن تفعل
+Tidak, kamu tidak akan bisa.
+
